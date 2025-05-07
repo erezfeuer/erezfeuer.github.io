@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Erez Feuer"
+  navbar:
+    logo: archive/images/trumpet.png
+    # left:
+      # - href: index.qmd
+    right:
+      - publications.qmd
+
+format:
+  html:
+    theme: [flatly, custom.scss]
+    css: styles.css
+    toc: true
+    # max-width: "700"
+
+

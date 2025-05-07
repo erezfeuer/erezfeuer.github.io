@@ -1,0 +1,15 @@
+---
+title: "Publications"
+---
+
+1. Marylou Mantova, Daniel M. Johnson, Jonathan Antebi, Sara Beery, Meghan Blumstein, Ron Cohen, Felipe Defavari, Xue Feng, **Erez Feuer**, Jess Gersony, William M. Hammond, and others  
+   Monitoring Urban Trees Across the World: Report from the Urban Trees Ecophysiology Network (UTEN) Inaugural Workshop  
+   [*New Phytologist*](https://doi.org/10.1111/nph.19621), 2024
+
+2. **Erez Feuer**, Gil Zimran, Michal Shpilman, Assaf Mosquna  
+   A Modified Yeast Two-Hybrid Platform Enables Dynamic Control of Expression Intensities to Unmask Properties of Protein-Protein Interactions  
+   [*ACS Synthetic Biology*](https://doi.org/10.1021/acssynbio.2c00192), 2022
+
+3. Gil Zimran, **Erez Feuer**, Oded Pri-Tal, Michal Shpilman, Assaf Mosquna  
+   Directed Evolution of Herbicide Biosensors in a Fluorescence-Activated Cell-Sorting-Compatible Yeast Two-Hybrid Platform  
+   [*ACS Synthetic Biology*](https://doi.org/10.1021/acssynbio.2c00297), 2022

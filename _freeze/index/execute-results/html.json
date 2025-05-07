@@ -1,0 +1,11 @@
+{
+  "hash": "b81723414b27b5ac012badc69108f84a",
+  "result": {
+    "markdown": "---\ntitle: Erez Feuer\npage-layout: article\nsection-divs: false\nexecute:\n  freeze: auto\n---\n\n\n\n\n<!-- {{< fa thumbs-up >}}  -->\n\n<!-- trick from here\nhttps://stackoverflow.com/questions/18032220/how-to-change-source-of-img-tag-on-hover -->\n::: {layout=\"[20,30]\" layout-valign=\"center\"}\n\n:::: image_here\n<img src=\"archive/images/erez-500px.png\"\n    border=\"0\" alt=\"\" width=\"300px\"/>\n::::\n\n:::: name_here\n\n----\n\n<!-- <span class=\"iconify\" data-icon=\"bi:person-circle\"></span> **Senior Lecturer**   -->\n<span class=\"iconify\" data-icon=\"icomoon-free:leaf\" data-rotate=\"270deg\"></span> **Institute of Environmental Sciences**  \n <img class=\"invert\" src=\"archive/images/huji-gray-transparent.png\" width=\"18\" style='vertical-align:top;' align=\"left\"> &nbsp; **The Hebrew University of Jerusalem**\n::::\n\n:::\n\n## Contact\n<i class=\"fas fa-envelope fa-fw fa-lg svv\" aria-hidden=\"true\"></i> <span>&ensp;</span> erez.feuer@mail.huji.ac.il   \n<!-- <i class=\"fa-solid fa-phone fa-fw fa-lg svv\"></i> -->\n<!-- <span>&ensp;</span> +972 8 948 9386   -->\n<i class=\"fas fa-map-marked-alt fa-fw fa-lg svv\"></i> <span>&ensp;</span> Rehovot Campus, Lubell building, office 39. <a href=\"https://goo.gl/maps/DM62y5VXAxJ2\" target=\"_blank\">Map here</a>\n\n## About\n\nThis is me. You got to the right place.\n\n## Short Bio\n\n**2022--to date:** PhD at the Institute of Environmental Sciences, The Hebrew University of Jerusalem, Israel  \n**2022:** MSc in Plant Science, The Hebrew University of Jerusalem, Israel  \n**2020:** BSc in Plant Science, The Hebrew University of Jerusalem, Israel   \n**2017:** BFA in Jazz performance, The New School of Jazz and Contemporary Music, NYC.  \n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
