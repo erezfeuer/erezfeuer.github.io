@@ -1,0 +1,32 @@
+---
+title: "Collaborations"
+page-layout: article
+---
+
+<!-- # Collaborations -->
+
+My work sits at the intersection of ecology, climate science, data analysis, and environmental sensing.  
+I enjoy working with interdisciplinary teams and contributing analytical, modeling, and instrumentation expertise to shared research goals.
+
+---
+
+## Urban Trees Ecophysiology Network (UTEN)
+
+The Urban Trees Ecophysiology Network is a global effort to monitor how trees in cities respond to heatwaves, drought, and atmospheric change.  
+The network brings together researchers across disciplines to deploy sensors, share data, and better understand how trees function in rapidly warming urban environments.
+
+### **My role**
+I contribute to UTEN by developing **custom IoT sensing systems** that collect and transmit high-resolution physiological and climatic data from trees around the world.  
+The device I designed — nicknamed **the Trumpet** — is a low-power, field-ready data-logging and communication system used at multiple UTEN sites.  
+It enables easy integration of dendrometers, microclimate sensors, and environmental probes, and streams data to the cloud for real-time monitoring and analysis.
+
+👉 **[Read about the Trumpet device](https://erezfeuer.github.io/uten/)**  
+👉 **[Learn more about UTEN](https://www.uten-network.com/)**
+
+---
+
+## Other Research Connections
+
+Much of my work involves shared datasets, instrumentation challenges, and cross-disciplinary questions.
+I collaborate when projects intersect with my focus on environmental sensing, climate extremes, and ecological time-series analysis, and I’m always open to new partnerships that fit this direction.
+

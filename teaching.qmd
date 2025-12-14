@@ -1,0 +1,41 @@
+---
+title: "Teaching"
+page-layout: article
+---
+
+
+I teach and assist in courses that combine environmental science, data analysis, and hands-on engineering.  
+Below are some of the classes I lead or support at the Hebrew University.
+
+---
+
+## Agrotech Lab (Lecturer) 
+*A project-based course on IoT and embedded systems in agriculture.*
+
+Agrotech Lab guides students through designing, building, and deploying real-world sensing systems for environmental and agricultural applications.  
+Students work with microcontrollers, wireless communication, sensors, and embedded programming to create functional prototypes that solve practical field challenges.  
+The course emphasizes problem-solving, rapid prototyping, teamwork, and data-driven decision-making.
+
+👉 **[Course website](https://agrotech-lab.github.io/)**
+
+---
+
+## Time Series Analysis (Teaching Assistant)  
+*A graduate-level introduction to statistical and computational methods for time-series data.*
+
+This course covers classical and modern methods for analyzing temporal data, including autoregressive models, spectral methods, forecasting techniques, and practical applications in environmental and ecological sciences.  
+I assist with tutorials, code demonstrations, and student projects, with a focus on Python workflows and hands-on analysis.
+
+👉 **[Course page](https://yairmau.com/time-series/)**
+
+---
+
+## Introduction to Data Science (Teaching Assistant)  
+*An applied introduction to programming, statistics, and data analysis for scientists.*
+
+The course introduces essential tools for data-driven research: Python programming, data manipulation, visualization, basic statistical modeling, and reproducible workflows.  
+I support students through exercises, coding sessions, and project development, with emphasis on real-world datasets and effective scientific computing.
+
+👉 **[Course materials](https://erezfeuer.github.io/data-science/)**
+
+---

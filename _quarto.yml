@@ -2,14 +2,28 @@ project:
   type: website
   output-dir: docs
 
+# website:
+#   title: "Erez Feuer"
+#   navbar:
+#     logo: archive/images/trumpet.png
+#     # left:
+#       # - href: index.qmd
+#     right:
+#       - publications.qmd
 website:
   title: "Erez Feuer"
   navbar:
     logo: archive/images/trumpet.png
-    # left:
-      # - href: index.qmd
     right:
+      # - href: index.qmd
+      #   text: "Home"
       - publications.qmd
+      - teaching.qmd
+      - text: "More"
+        menu:
+          - nepenthes.qmd
+          - music.qmd
+          - collaborations.qmd
 
 format:
   html:

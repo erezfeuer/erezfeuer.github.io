@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "collaborations.html",
+    "href": "collaborations.html",
+    "title": "Collaborations",
     "section": "",
-    "text": "Marylou Mantova, Daniel M. Johnson, Jonathan Antebi, Sara Beery, Meghan Blumstein, Ron Cohen, Felipe Defavari, Xue Feng, Erez Feuer, Jess Gersony, William M. Hammond, and others\nMonitoring Urban Trees Across the World: Report from the Urban Trees Ecophysiology Network (UTEN) Inaugural Workshop\nNew Phytologist, 2024\nErez Feuer, Gil Zimran, Michal Shpilman, Assaf Mosquna\nA Modified Yeast Two-Hybrid Platform Enables Dynamic Control of Expression Intensities to Unmask Properties of Protein-Protein Interactions\nACS Synthetic Biology, 2022\nGil Zimran, Erez Feuer, Oded Pri-Tal, Michal Shpilman, Assaf Mosquna\nDirected Evolution of Herbicide Biosensors in a Fluorescence-Activated Cell-Sorting-Compatible Yeast Two-Hybrid Platform\nACS Synthetic Biology, 2022"
+    "text": "My work sits at the intersection of ecology, climate science, data analysis, and environmental sensing.\nI enjoy working with interdisciplinary teams and contributing analytical, modeling, and instrumentation expertise to shared research goals."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Erez Feuer",
-    "section": "",
-    "text": "Institute of Environmental Sciences\n   The Hebrew University of Jerusalem\n\n\n\nContact\n   erez.feuer@mail.huji.ac.il\n     Rehovot Campus, Lubell building, office 39. Map here\nAbout\nThis is me. You got to the right place.\nShort Bio\n2022–to date: PhD at the Institute of Environmental Sciences, The Hebrew University of Jerusalem, Israel\n2022: MSc in Plant Science, The Hebrew University of Jerusalem, Israel\n2020: BSc in Plant Science, The Hebrew University of Jerusalem, Israel\n2017: BFA in Jazz performance, The New School of Jazz and Contemporary Music, NYC."
+    "objectID": "collaborations.html#urban-trees-ecophysiology-network-uten",
+    "href": "collaborations.html#urban-trees-ecophysiology-network-uten",
+    "title": "Collaborations",
+    "section": "Urban Trees Ecophysiology Network (UTEN)",
+    "text": "Urban Trees Ecophysiology Network (UTEN)\nThe Urban Trees Ecophysiology Network is a global effort to monitor how trees in cities respond to heatwaves, drought, and atmospheric change.\nThe network brings together researchers across disciplines to deploy sensors, share data, and better understand how trees function in rapidly warming urban environments.\n\nMy role\nI contribute to UTEN by developing custom IoT sensing systems that collect and transmit high-resolution physiological and climatic data from trees around the world.\nThe device I designed — nicknamed the Trumpet — is a low-power, field-ready data-logging and communication system used at multiple UTEN sites.\nIt enables easy integration of dendrometers, microclimate sensors, and environmental probes, and streams data to the cloud for real-time monitoring and analysis.\n👉 Read about the Trumpet device\n👉 Learn more about UTEN"
+  },
+  {
+    "objectID": "collaborations.html#other-research-connections",
+    "href": "collaborations.html#other-research-connections",
+    "title": "Collaborations",
+    "section": "Other Research Connections",
+    "text": "Other Research Connections\nMuch of my work involves shared datasets, instrumentation challenges, and cross-disciplinary questions. I collaborate when projects intersect with my focus on environmental sensing, climate extremes, and ecological time-series analysis, and I’m always open to new partnerships that fit this direction."
   },
   {
     "objectID": "readme.html",
@@ -19,5 +26,75 @@
     "title": "Erez Feuer",
     "section": "",
     "text": "hello"
+  },
+  {
+    "objectID": "nepenthes.html",
+    "href": "nepenthes.html",
+    "title": "Nepenthes",
+    "section": "",
+    "text": "I grow a collection of Nepenthes (tropical pitcher plants) in a smart, self-built greenhouse.\nBelow are some photos from my Instagram archive. For many more pictures and updates, you can visit my Instagram.\n👉 My Instagram"
+  },
+  {
+    "objectID": "nepenthes.html#gallery",
+    "href": "nepenthes.html#gallery",
+    "title": "Nepenthes",
+    "section": "Gallery",
+    "text": "Gallery"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach and assist in courses that combine environmental science, data analysis, and hands-on engineering.\nBelow are some of the classes I lead or support at the Hebrew University."
+  },
+  {
+    "objectID": "teaching.html#agrotech-lab-lecturer",
+    "href": "teaching.html#agrotech-lab-lecturer",
+    "title": "Teaching",
+    "section": "Agrotech Lab (Lecturer)",
+    "text": "Agrotech Lab (Lecturer)\nA project-based course on IoT and embedded systems in agriculture.\nAgrotech Lab guides students through designing, building, and deploying real-world sensing systems for environmental and agricultural applications.\nStudents work with microcontrollers, wireless communication, sensors, and embedded programming to create functional prototypes that solve practical field challenges.\nThe course emphasizes problem-solving, rapid prototyping, teamwork, and data-driven decision-making.\n👉 Course website"
+  },
+  {
+    "objectID": "teaching.html#time-series-analysis-teaching-assistant",
+    "href": "teaching.html#time-series-analysis-teaching-assistant",
+    "title": "Teaching",
+    "section": "Time Series Analysis (Teaching Assistant)",
+    "text": "Time Series Analysis (Teaching Assistant)\nA graduate-level introduction to statistical and computational methods for time-series data.\nThis course covers classical and modern methods for analyzing temporal data, including autoregressive models, spectral methods, forecasting techniques, and practical applications in environmental and ecological sciences.\nI assist with tutorials, code demonstrations, and student projects, with a focus on Python workflows and hands-on analysis.\n👉 Course page"
+  },
+  {
+    "objectID": "teaching.html#introduction-to-data-science-teaching-assistant",
+    "href": "teaching.html#introduction-to-data-science-teaching-assistant",
+    "title": "Teaching",
+    "section": "Introduction to Data Science (Teaching Assistant)",
+    "text": "Introduction to Data Science (Teaching Assistant)\nAn applied introduction to programming, statistics, and data analysis for scientists.\nThe course introduces essential tools for data-driven research: Python programming, data manipulation, visualization, basic statistical modeling, and reproducible workflows.\nI support students through exercises, coding sessions, and project development, with emphasis on real-world datasets and effective scientific computing.\n👉 Course materials"
+  },
+  {
+    "objectID": "music.html",
+    "href": "music.html",
+    "title": "Music",
+    "section": "",
+    "text": "I’ve been playing trumpet since I was young, and music has always been a central part of my life. Before shifting toward science, I trained as a professional musician and completed a BFA in Jazz Performance at The New School in New York. I still play regularly, and the mindset of a jazz musician—curiosity, playfulness, and improvisation—continues to guide my work. Keep swinging."
+  },
+  {
+    "objectID": "music.html#selected-recordings",
+    "href": "music.html#selected-recordings",
+    "title": "Music",
+    "section": "Selected recordings",
+    "text": "Selected recordings"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Erez Feuer",
+    "section": "",
+    "text": "Institute of Environmental Sciences\n   The Hebrew University of Jerusalem\n\n\n\nContact\n   erez.feuer@mail.huji.ac.il\n     Rehovot Campus, Lubell building, office 39. Map here\nAbout\nI am an environmental scientist studying how trees respond to heatwaves, drought, and other short-term climate extremes.My research centers on the analysis of ecological and climate time series. I use statistical modeling, machine learning, and dynamical systems to understand how trees grow under baseline conditions and how short-term climate extremes affect them. I work extensively with dendrometer and flux-tower data, tree-ring archives, and high-resolution climate datasets to understand resilience, legacy effects, and the mechanisms that shape tree function in a warming world.\nShort Bio\n2022–to date: PhD, Institute of Environmental Sciences, The Hebrew University of Jerusalem\n2022: MSc in Plant Science, The Hebrew University of Jerusalem — summa cum laude\n2020: BSc in Plant Science, The Hebrew University of Jerusalem — summa cum laude\n2017: BFA in Jazz Performance, The New School of Jazz and Contemporary Music, NYC — with honors\n\nOutside of research, I’m a trumpet player and longtime jazz musician. I grow Nepenthes (carnivorous plants) in a smart, self-built greenhouse, and I enjoy building and experimenting with microcontrollers, embedded electronics, and IoT systems.\nSeeking postdoc opportunities beginning fall 2027. I welcome conversations about potential projects and collaborations."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Erez Feuer, Yakir Preisler, Eyal Rotenberg, Dan Yakir, Yair Mau\nTree Growth, Contraction and Recovery: Disentangling Soil and Atmospheric Drought Effects\nPlant, Cell & Environment, 2025\nGil Zimran, Michal Shpilman, Eve Hobson, Yasuko Kamisugi, Amichai Baichman-Kass, Hong Zhang, Rafa Ruiz-Partida, María R. González-Bermúdez, Matan Azar, Erez Feuer, and others\nAbscisic acid receptors functionally converge across 500 million years of land plant evolution\nCurrent Biology, 2025\nMarylou Mantova, Daniel M. Johnson, Jonathan Antebi, Sara Beery, Meghan Blumstein, Ron Cohen, Felipe Defavari, Xue Feng, Erez Feuer, Jess Gersony, William M. Hammond, and others\nMonitoring Urban Trees Across the World: Report from the Urban Trees Ecophysiology Network (UTEN) Inaugural Workshop\nNew Phytologist, 2024\nErez Feuer, Gil Zimran, Michal Shpilman, Assaf Mosquna\nA Modified Yeast Two-Hybrid Platform Enables Dynamic Control of Expression Intensities to Unmask Properties of Protein-Protein Interactions\nACS Synthetic Biology, 2022\nGil Zimran, Erez Feuer, Oded Pri-Tal, Michal Shpilman, Assaf Mosquna\nDirected Evolution of Herbicide Biosensors in a Fluorescence-Activated Cell-Sorting-Compatible Yeast Two-Hybrid Platform\nACS Synthetic Biology, 2022"
   }
 ]

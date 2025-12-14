@@ -1,0 +1,21 @@
+---
+title: "Music"
+page-layout: article
+---
+
+
+I’ve been playing trumpet since I was young, and music has always been a central part of my life. Before shifting toward science, I trained as a professional musician and completed a BFA in Jazz Performance at The New School in New York. I still play regularly, and the mindset of a jazz musician—curiosity, playfulness, and improvisation—continues to guide my work. **Keep swinging.**
+
+
+## Selected recordings
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no"
+        src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/erez-feuer/nobody-knows&color=%23ff5500&inverse=false&auto_play=false&show_user=true">
+</iframe>
+
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no"
+        src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/erez-feuer/all-of-me&color=%23ff5500&inverse=false&auto_play=false&show_user=true">
+</iframe>

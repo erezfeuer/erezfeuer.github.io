@@ -38,11 +38,27 @@ https://stackoverflow.com/questions/18032220/how-to-change-source-of-img-tag-on-
 
 ## About
 
-This is me. You got to the right place.
+I am an environmental scientist studying how trees respond to heatwaves, drought, and other short-term climate extremes.My research centers on the analysis of ecological and climate time series. I use statistical modeling, machine learning, and dynamical systems to understand how trees grow under baseline conditions and how short-term climate extremes affect them. I work extensively with dendrometer and flux-tower data, tree-ring archives, and high-resolution climate datasets to understand resilience, legacy effects, and the mechanisms that shape tree function in a warming world.
 
 ## Short Bio
 
-**2022--to date:** PhD at the Institute of Environmental Sciences, The Hebrew University of Jerusalem, Israel  
-**2022:** MSc in Plant Science, The Hebrew University of Jerusalem, Israel  
-**2020:** BSc in Plant Science, The Hebrew University of Jerusalem, Israel   
-**2017:** BFA in Jazz performance, The New School of Jazz and Contemporary Music, NYC.  
+**2022–to date:** PhD, Institute of Environmental Sciences, The Hebrew University of Jerusalem  
+
+**2022:** MSc in Plant Science, The Hebrew University of Jerusalem — *summa cum laude*  
+
+**2020:** BSc in Plant Science, The Hebrew University of Jerusalem — *summa cum laude*  
+
+**2017:** BFA in Jazz Performance, The New School of Jazz and Contemporary Music, NYC — *with honors*
+
+
+---
+
+Outside of research, I’m a trumpet player and longtime jazz musician. I grow *Nepenthes* (carnivorous plants) in a smart, self-built greenhouse, and I enjoy building and experimenting with microcontrollers, embedded electronics, and IoT systems.
+
+
+**Seeking postdoc opportunities beginning fall 2027.**
+I welcome conversations about potential projects and collaborations.
+
+---
+
+
