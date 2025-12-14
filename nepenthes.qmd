@@ -9,6 +9,21 @@ Below are some photos from my Instagram archive. For many more pictures and upda
 
 👉 [My Instagram](https://www.instagram.com/erezfeuer/)
 
+## Media
+
+- Article (in Hebrew) about my Nepenthes collection on  
+  [Ynet](https://www.ynet.co.il/environment-science/article/bkhlgjk49)
+
+- Short video feature (YouTube):
+
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/e-8Dln7x3qA"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+  </iframe>
+
 ## Gallery
 
 ::: {layout-ncol=3}
