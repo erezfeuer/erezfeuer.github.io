@@ -23,7 +23,7 @@ website:
         menu:
           - nepenthes.qmd
           - music.qmd
-          - collaborations.qmd
+          # - collaborations.qmd
 
 format:
   html:
