@@ -34,7 +34,7 @@ projections to see where each forest lands. Reading the results not as a single
 snapshot but as trajectories through time turns out to matter — it separates
 losses that stick from gains that quietly fade.
 
-*This work is written up in a manuscript — see [Publications](publications.qmd).*
+[Related manuscript &#8594;](publications.qmd)
 
 ---
 
@@ -74,12 +74,12 @@ events buffer one another, when do they compound, and when does incomplete recov
 carry a tree past the point of return.
 
 The picture below is the intuition behind the model. Imagine a plane whose axes are
-the tree's carbon reserves and its hydraulic function. A healthy, self-restoring
-state sits in one corner, separated by a threshold — a *separatrix* — from states
+the tree's water status and its carbon reserves. A healthy, self-restoring state
+sits in one corner, separated by a threshold — a *line of no return* — from states
 that slide toward death. A drought bends the flow and pushes the tree off its
 healthy state; when it passes, recovery begins, but *from wherever the tree was
 left*. A second drought that full health would have shrugged off can, if it lands
-before recovery is complete, carry the tree across the threshold. History, not just
+before recovery is complete, carry the tree across that line. History, not just
 total severity, decides the outcome.
 
 <figure>
@@ -105,17 +105,17 @@ total severity, decides the outcome.
 
   <!-- separatrix -->
   <path d="M140,40 Q300,300 620,300" fill="none" stroke="#7F8C8D" stroke-width="2" stroke-dasharray="7 5"/>
-  <text x="150" y="60" font-size="13" fill="#7F8C8D" font-style="italic">separatrix</text>
+  <text x="150" y="60" font-size="13" fill="#7F8C8D" font-style="italic">line of no return</text>
 
   <!-- region labels -->
-  <text x="472" y="88" font-size="14" fill="#18808B" font-weight="bold">Recovery basin</text>
-  <text x="96" y="360" font-size="14" fill="#C0392B" font-weight="bold">Irreversible decline</text>
+  <text x="210" y="116" font-size="14" fill="#18808B" font-weight="bold">Recovery basin</text>
+  <text x="96" y="362" font-size="14" fill="#C0392B" font-weight="bold">Irreversible decline</text>
 
   <!-- axes -->
   <line x1="70" y1="380" x2="640" y2="380" stroke="#2C3E50" stroke-width="2" marker-end="url(#axisHead)"/>
   <line x1="70" y1="380" x2="70" y2="30" stroke="#2C3E50" stroke-width="2" marker-end="url(#axisHead)"/>
-  <text x="360" y="410" font-size="15" fill="#2C3E50" text-anchor="middle">Accessible carbon &#8594;</text>
-  <text x="38" y="210" font-size="15" fill="#2C3E50" text-anchor="middle" transform="rotate(-90 38 210)">Hydraulic function &#8594;</text>
+  <text x="360" y="410" font-size="15" fill="#2C3E50" text-anchor="middle">Water status &#8594;</text>
+  <text x="38" y="210" font-size="15" fill="#2C3E50" text-anchor="middle" transform="rotate(-90 38 210)">Carbon reserves &#8594;</text>
 
   <!-- comparison: same second drought from a healthy state stays in the basin -->
   <path d="M560,90 L437,208" fill="none" stroke="#95A5A6" stroke-width="1.6" stroke-dasharray="4 4" marker-end="url(#arrowGray)"/>
@@ -136,12 +136,11 @@ total severity, decides the outcome.
   <path d="M295,262 l12,12 M307,262 l-12,12" stroke="#C0392B" stroke-width="2.6"/>
 
   <!-- state labels -->
-  <text x="574" y="86" font-size="13" fill="#18808B" font-weight="bold">healthy</text>
-  <text x="574" y="102" font-size="13" fill="#18808B" font-weight="bold">equilibrium</text>
-  <text x="470" y="132" font-size="12.5" fill="#C0392B">drought 1</text>
-  <text x="404" y="128" font-size="12.5" fill="#18808B">incomplete recovery</text>
-  <text x="330" y="212" font-size="12.5" fill="#C0392B">drought 2</text>
-  <text x="245" y="285" font-size="13" fill="#C0392B" font-weight="bold">mortality</text>
+  <text x="600" y="74" text-anchor="end" font-size="13" fill="#18808B" font-weight="bold">healthy equilibrium</text>
+  <text x="470" y="110" text-anchor="middle" font-size="12.5" fill="#C0392B">drought 1</text>
+  <text x="372" y="166" text-anchor="end" font-size="12.5" fill="#18808B">incomplete recovery</text>
+  <text x="330" y="204" text-anchor="end" font-size="12.5" fill="#C0392B">drought 2</text>
+  <text x="286" y="292" text-anchor="end" font-size="13" fill="#C0392B" font-weight="bold">mortality</text>
 </svg>
 <figcaption style="font-size:15px; color:#555; margin-top:0.4rem;">
 A conceptual phase portrait. Drought moves the tree away from its healthy state, and physiological memory is stored in where it is left. The <em>same</em> second drought is survivable from full health (grey) but lethal when it lands during incomplete recovery (red).
@@ -164,7 +163,7 @@ atmospheric signal — lets me read growth, water status, and recovery straight 
 the stem. It shows, among other things, that whether a heatwave merely slows a tree
 or tips it into shrinking depends on the soil water it has to fall back on.
 
-*This work is published — see [Publications](publications.qmd).*
+[Related publication &#8594;](publications.qmd)
 
 ---
 
