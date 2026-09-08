@@ -60,9 +60,6 @@ Two findings stand out:
   region and strengthens under stronger warming, with the sharpest declines in
   the Mediterranean and western and central Europe.
 
-Growth does not simply move back and forth between good years and bad — it is
-pulled in one direction.
-
 [Read the manuscript &#8594;](files/Feuer-etal-losses-outlast-gains.pdf)
 
 ---
@@ -100,20 +97,21 @@ impaired hydraulics — and the next drought acts on that altered state rather t
 on a healthy one.
 
 The model is a deliberate reduction of an established carbon–hydraulic framework,
-kept to the few processes that could let this history matter. Its central feature
-is that a threshold between recovery and decline arises from the feedback itself,
-rather than being imposed: from states on one side of it a tree can rebuild
-hydraulic capacity and return to its healthy baseline; from the other, repair can
-no longer keep pace and carbon is drawn down without recovering. Drought enters as
-finite events, so what decides the outcome is the state each event finds the tree
-in.
+kept to the few processes that could let this history matter. Under ordinary
+conditions it has a healthy equilibrium and a threshold — a tipping point, or
+point of no return — that separates states that recover from states whose carbon
+is drawn down without recovering. This threshold is not imposed; it emerges from
+the carbon–hydraulic feedback itself. A drought reshapes the phase space for as
+long as it lasts, driving the tree toward that threshold; when it lifts, the flow
+relaxes to normal, but the tree resumes from wherever it was left.
 
-This lets me ask a sharper question — whether carbon–hydraulic feedback alone is
-enough to make drought history matter: when a sequence of droughts buffers, when
-it compounds, and when timing rather than severity governs survival. Two droughts
-that each would be survivable in isolation can become lethal when they fall close
-together, before hydraulic capacity has been rebuilt, so that the sequence, and
-not the cumulative stress, sets the outcome.
+Because a tree meets not a single drought but a regime of them, the question is
+how survival depends on the intensity, frequency, and duration of droughts and the
+timing between them. Events that are each survivable in isolation can carry a tree
+across the point of no return when they fall close together, before hydraulic
+capacity has been rebuilt — so that the sequence, and not the cumulative stress,
+sets the outcome. What I am after is whether carbon–hydraulic feedback alone is
+enough to make that history matter.
 
 ---
 
