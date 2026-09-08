@@ -2,9 +2,17 @@
 title: "Publications"
 ---
 
-1. **Erez Feuer**, Yakir Preisler, Eyal Rotenberg, Dan Yakir, Yair Mau  
-   Tree Growth, Contraction and Recovery: Disentangling Soil and Atmospheric Drought Effects  
-   [*Plant, Cell & Environment*](https://doi.org/10.1111/pce.15604), 2025
+## In submission
+
+1. **Erez Feuer**, Stefan Klesse, Guy Amir, Nadav Peleg, Yair Mau
+   Losses Outlast Gains in Northern Hemisphere Tree Growth Under Climate Change
+   *In submission*, 2025 &nbsp; <a href="files/Feuer-etal-losses-outlast-gains.pdf" class="btn btn-outline-secondary btn-sm" role="button"><i class="fas fa-file-pdf"></i> PDF</a>
+
+## Published
+
+1. **Erez Feuer**, Yakir Preisler, Eyal Rotenberg, Dan Yakir, Yair Mau
+   Tree Growth, Contraction and Recovery: Disentangling Soil and Atmospheric Drought Effects
+   [*Plant, Cell & Environment*](https://doi.org/10.1111/pce.15604), 2025 &nbsp; <a href="files/Feuer-etal-2025-PCE-tree-growth-drought.pdf" class="btn btn-outline-secondary btn-sm" role="button"><i class="fas fa-file-pdf"></i> PDF</a>
 
 1. Gil Zimran, Michal Shpilman, Eve Hobson, Yasuko Kamisugi, Amichai Baichman-Kass, Hong Zhang, Rafa Ruiz-Partida, María R. González-Bermúdez, Matan Azar, **Erez Feuer**, and others  
    Abscisic acid receptors functionally converge across 500 million years of land plant evolution  
