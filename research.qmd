@@ -1,0 +1,130 @@
+---
+title: "Research"
+page-layout: article
+toc: true
+toc-title: "Projects"
+---
+
+I study how trees respond to climate extremes — heatwaves, drought, and the
+shifting baselines of a warming world — and what those responses tell us about
+resilience, recovery, and mortality. My work combines **ecological and climate
+time-series analysis**, **statistical and machine-learning models**, and
+**dynamical-systems thinking**, drawing on dendrometer records, flux-tower data,
+global tree-ring archives, and high-resolution climate datasets.
+
+Across projects, a single question recurs: *how do short-term climate extremes
+reshape the long-term trajectory of tree growth, function, and survival?* I
+approach it from several directions at once — data-driven, mechanistic, and
+instrumental — because the answer lives at the intersection of all three.
+
+---
+
+## Disentangling soil and atmospheric drought
+
+*How trees grow, shrink, and recover under two different kinds of drought.*
+
+Drought is not one thing. Trees experience it both through the **soil** (falling
+water availability at the roots) and through the **atmosphere** (rising vapor
+pressure deficit that pulls water from the canopy). These two pressures often
+arrive together, which makes their individual effects hard to separate — yet they
+act on the tree through different mechanisms.
+
+Using high-resolution **dendrometer** time series, I disentangle how soil versus
+atmospheric drought drive the daily cycles of stem **growth, contraction, and
+recovery**. The work shows how each type of drought leaves a distinct signature
+on stem dynamics, and how trees recover once conditions ease.
+
+This is the first published chapter of my PhD.
+
+👉 **[Feuer et al. (2025), *Plant, Cell & Environment*](https://doi.org/10.1111/pce.15604)**
+
+---
+
+## Tree rings and long-term climate response
+
+*A continental-scale look at how the tree-ring record captures climate — currently in submission.*
+
+<!-- TODO (Erez): replace this paragraph with a 2–3 sentence plain-language
+     summary of the submitted paper — the question, the data, and the headline
+     result. I left a careful placeholder rather than invent findings. -->
+
+A new manuscript, **currently in submission**, uses the global tree-ring record
+to examine how trees register and respond to climate over the long term. *[One
+or two sentences describing the specific question and main finding go here.]*
+
+---
+
+## Climate coverage of the global tree-ring network
+
+*Where the tree-ring record represents the world's climates — and where climate change is moving beyond it.*
+
+The **International Tree-Ring Data Bank (ITRDB)** is the largest archive of
+tree-ring records on Earth, and it underpins much of what we know about how
+forests respond to climate. But the network was not designed as a climatic
+sample: some climates are densely represented, others barely at all.
+
+This project asks how well the ITRDB **covers the range of climates trees
+actually experience**, and how that coverage shifts as the climate warms. Two
+ideas sit at its core:
+
+- **Space-for-time substitution.** Much of forest ecology assumes that spatial
+  climate gradients can stand in for change over time — that a warmer *place*
+  tells us about a warmer *future*. I test how far that substitution actually
+  holds across the tree-ring network: where places are interchangeable, and
+  where they are not.
+- **Novel climates.** As warming pushes trees into climatic conditions with no
+  analog in the existing record, parts of the world move **outside the sampled
+  envelope**. I map where coverage is dense versus sparse, identify the emerging
+  novel climates the ITRDB cannot yet speak to, and highlight where new sampling
+  would most improve our ability to anticipate forest responses.
+
+The result is a map of both the **reach and the blind spots** of one of ecology's
+most important datasets, at a moment when those blind spots are growing.
+
+---
+
+## A dynamical-systems model of tree mortality
+
+*Treating survival and death as stable states — and asking what tips a tree from one to the other.*
+
+Building on and extending the framework of Trugman and colleagues, this project
+models tree survival as a **dynamical system** with more than one stable state.
+A tree carrying healthy carbon reserves and intact water-transport tissue sits in
+a "living" basin; a tree that is carbon-starved or hydraulically failed sits in a
+"mortality" basin. Between them lies a **separatrix** — a threshold that, once
+crossed, is hard to come back from.
+
+The model tracks two coupled state variables through time:
+
+- **Nonstructural carbohydrate (NSC) reserves** — the tree's stored energy budget.
+- **Xylem / hydraulic integrity** — the functioning of its water-transport system.
+
+**Disturbances** — droughts and heatwaves — reshape this phase space. I
+characterize them by their **frequency, duration, and intensity**, and ask how
+each dimension bends the system's stable states and pushes a tree toward, or
+across, the mortality threshold. Because disturbances arrive in sequence, the
+model also captures how **repeated** shocks accumulate: how a tree weakened by
+one drought meets the next.
+
+The aim is a deliberately **simple, interpretable** model — one that makes the
+mechanisms of resilience and tipping legible, rather than burying them in
+complexity.
+
+---
+
+## Future directions
+
+My longer-term interest is the **mechanistic basis of tree growth and mortality
+under climate change** — how the twin currencies of tree health, **carbon** and
+**water**, are drawn down by climate extremes, and how that determines which
+trees recover and which cross the line into decline.
+
+I want to keep working across scales and methods: from **individual-tree
+physiology** measured at high resolution, to **continental patterns** in the
+tree-ring record, to **mechanistic models** that tie the two together. The unifying
+goal is to forecast forest **resilience and vulnerability** in a warming world —
+to understand not just how trees respond to the climate they have known, but how
+they will fare in the climates they are about to meet.
+
+I am **seeking postdoc opportunities beginning fall 2027**, and I welcome
+conversations about projects and collaborations along these lines.

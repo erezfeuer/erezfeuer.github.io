@@ -17,6 +17,7 @@ website:
     right:
       # - href: index.qmd
       #   text: "Home"
+      - research.qmd
       - publications.qmd
       - teaching.qmd
       - text: "More"

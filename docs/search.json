@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "collaborations.html",
-    "href": "collaborations.html",
-    "title": "Collaborations",
-    "section": "",
-    "text": "My work sits at the intersection of ecology, climate science, data analysis, and environmental sensing.\nI enjoy working with interdisciplinary teams and contributing analytical, modeling, and instrumentation expertise to shared research goals."
-  },
-  {
-    "objectID": "collaborations.html#urban-trees-ecophysiology-network-uten",
-    "href": "collaborations.html#urban-trees-ecophysiology-network-uten",
-    "title": "Collaborations",
-    "section": "Urban Trees Ecophysiology Network (UTEN)",
-    "text": "Urban Trees Ecophysiology Network (UTEN)\nThe Urban Trees Ecophysiology Network is a global effort to monitor how trees in cities respond to heatwaves, drought, and atmospheric change.\nThe network brings together researchers across disciplines to deploy sensors, share data, and better understand how trees function in rapidly warming urban environments.\n\nMy role\nI contribute to UTEN by developing custom IoT sensing systems that collect and transmit high-resolution physiological and climatic data from trees around the world.\nThe device I designed — nicknamed the Trumpet — is a low-power, field-ready data-logging and communication system used at multiple UTEN sites.\nIt enables easy integration of dendrometers, microclimate sensors, and environmental probes, and streams data to the cloud for real-time monitoring and analysis.\n👉 Read about the Trumpet device\n👉 Learn more about UTEN"
-  },
-  {
-    "objectID": "collaborations.html#other-research-connections",
-    "href": "collaborations.html#other-research-connections",
-    "title": "Collaborations",
-    "section": "Other Research Connections",
-    "text": "Other Research Connections\nMuch of my work involves shared datasets, instrumentation challenges, and cross-disciplinary questions. I collaborate when projects intersect with my focus on environmental sensing, climate extremes, and ecological time-series analysis, and I’m always open to new partnerships that fit this direction."
-  },
-  {
-    "objectID": "readme.html",
-    "href": "readme.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Erez Feuer",
     "section": "",
-    "text": "hello"
+    "text": "Institute of Environmental Sciences\n   The Hebrew University of Jerusalem\n\n\n\nContact\n   erez.feuer@mail.huji.ac.il\n     Rehovot Campus, Lubell building, office 39. Map here\nAbout\nI am an environmental scientist studying how trees respond to heatwaves, drought, and other short-term climate extremes.My research centers on the analysis of ecological and climate time series. I use statistical modeling, machine learning, and dynamical systems to understand how trees grow under baseline conditions and how short-term climate extremes affect them. I work extensively with dendrometer and flux-tower data, tree-ring archives, and high-resolution climate datasets to understand resilience, legacy effects, and the mechanisms that shape tree function in a warming world.\nShort Bio\n2022–to date: PhD, Institute of Environmental Sciences, The Hebrew University of Jerusalem\n2022: MSc in Plant Science, The Hebrew University of Jerusalem — summa cum laude\n2020: BSc in Plant Science, The Hebrew University of Jerusalem — summa cum laude\n2017: BFA in Jazz Performance, The New School of Jazz and Contemporary Music, NYC — with honors\n\nOutside of research, I’m a trumpet player and longtime jazz musician. I grow Nepenthes (carnivorous plants) in a smart, self-built greenhouse, and I enjoy building and experimenting with microcontrollers, embedded electronics, and IoT systems.\nSeeking postdoc opportunities beginning fall 2027. I welcome conversations about potential projects and collaborations."
   },
   {
     "objectID": "nepenthes.html",
@@ -77,6 +56,62 @@
     "text": "Introduction to Data Science (Teaching Assistant)\nAn applied introduction to programming, statistics, and data analysis for scientists.\nThe course introduces essential tools for data-driven research: Python programming, data manipulation, visualization, basic statistical modeling, and reproducible workflows.\nI support students through exercises, coding sessions, and project development, with emphasis on real-world datasets and effective scientific computing.\n👉 Course materials"
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I study how trees respond to climate extremes — heatwaves, drought, and the shifting baselines of a warming world — and what those responses tell us about resilience, recovery, and mortality. My work combines ecological and climate time-series analysis, statistical and machine-learning models, and dynamical-systems thinking, drawing on dendrometer records, flux-tower data, global tree-ring archives, and high-resolution climate datasets.\nAcross projects, a single question recurs: how do short-term climate extremes reshape the long-term trajectory of tree growth, function, and survival? I approach it from several directions at once — data-driven, mechanistic, and instrumental — because the answer lives at the intersection of all three."
+  },
+  {
+    "objectID": "research.html#disentangling-soil-and-atmospheric-drought",
+    "href": "research.html#disentangling-soil-and-atmospheric-drought",
+    "title": "Research",
+    "section": "Disentangling soil and atmospheric drought",
+    "text": "Disentangling soil and atmospheric drought\nHow trees grow, shrink, and recover under two different kinds of drought.\nDrought is not one thing. Trees experience it both through the soil (falling water availability at the roots) and through the atmosphere (rising vapor pressure deficit that pulls water from the canopy). These two pressures often arrive together, which makes their individual effects hard to separate — yet they act on the tree through different mechanisms.\nUsing high-resolution dendrometer time series, I disentangle how soil versus atmospheric drought drive the daily cycles of stem growth, contraction, and recovery. The work shows how each type of drought leaves a distinct signature on stem dynamics, and how trees recover once conditions ease.\nThis is the first published chapter of my PhD.\n👉 Feuer et al. (2025), Plant, Cell & Environment"
+  },
+  {
+    "objectID": "research.html#tree-rings-and-long-term-climate-response",
+    "href": "research.html#tree-rings-and-long-term-climate-response",
+    "title": "Research",
+    "section": "Tree rings and long-term climate response",
+    "text": "Tree rings and long-term climate response\nA continental-scale look at how the tree-ring record captures climate — currently in submission.\n\nA new manuscript, currently in submission, uses the global tree-ring record to examine how trees register and respond to climate over the long term. [One or two sentences describing the specific question and main finding go here.]"
+  },
+  {
+    "objectID": "research.html#climate-coverage-of-the-global-tree-ring-network",
+    "href": "research.html#climate-coverage-of-the-global-tree-ring-network",
+    "title": "Research",
+    "section": "Climate coverage of the global tree-ring network",
+    "text": "Climate coverage of the global tree-ring network\nWhere the tree-ring record represents the world’s climates — and where climate change is moving beyond it.\nThe International Tree-Ring Data Bank (ITRDB) is the largest archive of tree-ring records on Earth, and it underpins much of what we know about how forests respond to climate. But the network was not designed as a climatic sample: some climates are densely represented, others barely at all.\nThis project asks how well the ITRDB covers the range of climates trees actually experience, and how that coverage shifts as the climate warms. Two ideas sit at its core:\n\nSpace-for-time substitution. Much of forest ecology assumes that spatial climate gradients can stand in for change over time — that a warmer place tells us about a warmer future. I test how far that substitution actually holds across the tree-ring network: where places are interchangeable, and where they are not.\nNovel climates. As warming pushes trees into climatic conditions with no analog in the existing record, parts of the world move outside the sampled envelope. I map where coverage is dense versus sparse, identify the emerging novel climates the ITRDB cannot yet speak to, and highlight where new sampling would most improve our ability to anticipate forest responses.\n\nThe result is a map of both the reach and the blind spots of one of ecology’s most important datasets, at a moment when those blind spots are growing."
+  },
+  {
+    "objectID": "research.html#a-dynamical-systems-model-of-tree-mortality",
+    "href": "research.html#a-dynamical-systems-model-of-tree-mortality",
+    "title": "Research",
+    "section": "A dynamical-systems model of tree mortality",
+    "text": "A dynamical-systems model of tree mortality\nTreating survival and death as stable states — and asking what tips a tree from one to the other.\nBuilding on and extending the framework of Trugman and colleagues, this project models tree survival as a dynamical system with more than one stable state. A tree carrying healthy carbon reserves and intact water-transport tissue sits in a “living” basin; a tree that is carbon-starved or hydraulically failed sits in a “mortality” basin. Between them lies a separatrix — a threshold that, once crossed, is hard to come back from.\nThe model tracks two coupled state variables through time:\n\nNonstructural carbohydrate (NSC) reserves — the tree’s stored energy budget.\nXylem / hydraulic integrity — the functioning of its water-transport system.\n\nDisturbances — droughts and heatwaves — reshape this phase space. I characterize them by their frequency, duration, and intensity, and ask how each dimension bends the system’s stable states and pushes a tree toward, or across, the mortality threshold. Because disturbances arrive in sequence, the model also captures how repeated shocks accumulate: how a tree weakened by one drought meets the next.\nThe aim is a deliberately simple, interpretable model — one that makes the mechanisms of resilience and tipping legible, rather than burying them in complexity."
+  },
+  {
+    "objectID": "research.html#future-directions",
+    "href": "research.html#future-directions",
+    "title": "Research",
+    "section": "Future directions",
+    "text": "Future directions\nMy longer-term interest is the mechanistic basis of tree growth and mortality under climate change — how the twin currencies of tree health, carbon and water, are drawn down by climate extremes, and how that determines which trees recover and which cross the line into decline.\nI want to keep working across scales and methods: from individual-tree physiology measured at high resolution, to continental patterns in the tree-ring record, to mechanistic models that tie the two together. The unifying goal is to forecast forest resilience and vulnerability in a warming world — to understand not just how trees respond to the climate they have known, but how they will fare in the climates they are about to meet.\nI am seeking postdoc opportunities beginning fall 2027, and I welcome conversations about projects and collaborations along these lines."
+  },
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Erez Feuer",
+    "section": "",
+    "text": "hello"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Erez Feuer, Yakir Preisler, Eyal Rotenberg, Dan Yakir, Yair Mau\nTree Growth, Contraction and Recovery: Disentangling Soil and Atmospheric Drought Effects\nPlant, Cell & Environment, 2025\nGil Zimran, Michal Shpilman, Eve Hobson, Yasuko Kamisugi, Amichai Baichman-Kass, Hong Zhang, Rafa Ruiz-Partida, María R. González-Bermúdez, Matan Azar, Erez Feuer, and others\nAbscisic acid receptors functionally converge across 500 million years of land plant evolution\nCurrent Biology, 2025\nMarylou Mantova, Daniel M. Johnson, Jonathan Antebi, Sara Beery, Meghan Blumstein, Ron Cohen, Felipe Defavari, Xue Feng, Erez Feuer, Jess Gersony, William M. Hammond, and others\nMonitoring Urban Trees Across the World: Report from the Urban Trees Ecophysiology Network (UTEN) Inaugural Workshop\nNew Phytologist, 2024\nErez Feuer, Gil Zimran, Michal Shpilman, Assaf Mosquna\nA Modified Yeast Two-Hybrid Platform Enables Dynamic Control of Expression Intensities to Unmask Properties of Protein-Protein Interactions\nACS Synthetic Biology, 2022\nGil Zimran, Erez Feuer, Oded Pri-Tal, Michal Shpilman, Assaf Mosquna\nDirected Evolution of Herbicide Biosensors in a Fluorescence-Activated Cell-Sorting-Compatible Yeast Two-Hybrid Platform\nACS Synthetic Biology, 2022"
+  },
+  {
     "objectID": "music.html",
     "href": "music.html",
     "title": "Music",
@@ -91,17 +126,24 @@
     "text": "Selected recordings"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Erez Feuer",
+    "objectID": "collaborations.html",
+    "href": "collaborations.html",
+    "title": "Collaborations",
     "section": "",
-    "text": "Institute of Environmental Sciences\n   The Hebrew University of Jerusalem\n\n\n\nContact\n   erez.feuer@mail.huji.ac.il\n     Rehovot Campus, Lubell building, office 39. Map here\nAbout\nI am an environmental scientist studying how trees respond to heatwaves, drought, and other short-term climate extremes.My research centers on the analysis of ecological and climate time series. I use statistical modeling, machine learning, and dynamical systems to understand how trees grow under baseline conditions and how short-term climate extremes affect them. I work extensively with dendrometer and flux-tower data, tree-ring archives, and high-resolution climate datasets to understand resilience, legacy effects, and the mechanisms that shape tree function in a warming world.\nShort Bio\n2022–to date: PhD, Institute of Environmental Sciences, The Hebrew University of Jerusalem\n2022: MSc in Plant Science, The Hebrew University of Jerusalem — summa cum laude\n2020: BSc in Plant Science, The Hebrew University of Jerusalem — summa cum laude\n2017: BFA in Jazz Performance, The New School of Jazz and Contemporary Music, NYC — with honors\n\nOutside of research, I’m a trumpet player and longtime jazz musician. I grow Nepenthes (carnivorous plants) in a smart, self-built greenhouse, and I enjoy building and experimenting with microcontrollers, embedded electronics, and IoT systems.\nSeeking postdoc opportunities beginning fall 2027. I welcome conversations about potential projects and collaborations."
+    "text": "My work sits at the intersection of ecology, climate science, data analysis, and environmental sensing.\nI enjoy working with interdisciplinary teams and contributing analytical, modeling, and instrumentation expertise to shared research goals."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Erez Feuer, Yakir Preisler, Eyal Rotenberg, Dan Yakir, Yair Mau\nTree Growth, Contraction and Recovery: Disentangling Soil and Atmospheric Drought Effects\nPlant, Cell & Environment, 2025\nGil Zimran, Michal Shpilman, Eve Hobson, Yasuko Kamisugi, Amichai Baichman-Kass, Hong Zhang, Rafa Ruiz-Partida, María R. González-Bermúdez, Matan Azar, Erez Feuer, and others\nAbscisic acid receptors functionally converge across 500 million years of land plant evolution\nCurrent Biology, 2025\nMarylou Mantova, Daniel M. Johnson, Jonathan Antebi, Sara Beery, Meghan Blumstein, Ron Cohen, Felipe Defavari, Xue Feng, Erez Feuer, Jess Gersony, William M. Hammond, and others\nMonitoring Urban Trees Across the World: Report from the Urban Trees Ecophysiology Network (UTEN) Inaugural Workshop\nNew Phytologist, 2024\nErez Feuer, Gil Zimran, Michal Shpilman, Assaf Mosquna\nA Modified Yeast Two-Hybrid Platform Enables Dynamic Control of Expression Intensities to Unmask Properties of Protein-Protein Interactions\nACS Synthetic Biology, 2022\nGil Zimran, Erez Feuer, Oded Pri-Tal, Michal Shpilman, Assaf Mosquna\nDirected Evolution of Herbicide Biosensors in a Fluorescence-Activated Cell-Sorting-Compatible Yeast Two-Hybrid Platform\nACS Synthetic Biology, 2022"
+    "objectID": "collaborations.html#urban-trees-ecophysiology-network-uten",
+    "href": "collaborations.html#urban-trees-ecophysiology-network-uten",
+    "title": "Collaborations",
+    "section": "Urban Trees Ecophysiology Network (UTEN)",
+    "text": "Urban Trees Ecophysiology Network (UTEN)\nThe Urban Trees Ecophysiology Network is a global effort to monitor how trees in cities respond to heatwaves, drought, and atmospheric change.\nThe network brings together researchers across disciplines to deploy sensors, share data, and better understand how trees function in rapidly warming urban environments.\n\nMy role\nI contribute to UTEN by developing custom IoT sensing systems that collect and transmit high-resolution physiological and climatic data from trees around the world.\nThe device I designed — nicknamed the Trumpet — is a low-power, field-ready data-logging and communication system used at multiple UTEN sites.\nIt enables easy integration of dendrometers, microclimate sensors, and environmental probes, and streams data to the cloud for real-time monitoring and analysis.\n👉 Read about the Trumpet device\n👉 Learn more about UTEN"
+  },
+  {
+    "objectID": "collaborations.html#other-research-connections",
+    "href": "collaborations.html#other-research-connections",
+    "title": "Collaborations",
+    "section": "Other Research Connections",
+    "text": "Other Research Connections\nMuch of my work involves shared datasets, instrumentation challenges, and cross-disciplinary questions. I collaborate when projects intersect with my focus on environmental sensing, climate extremes, and ecological time-series analysis, and I’m always open to new partnerships that fit this direction."
   }
 ]
