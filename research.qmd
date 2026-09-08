@@ -90,26 +90,32 @@ anticipate how forests respond.
 
 ## Drought history reshapes tree survival under recurrent water stress
 
-I am developing a minimal dynamical-systems model of tree carbon and hydraulic
-function to explore how drought history changes the response to future stress. A
-drought can leave a tree alive but physiologically displaced: hydraulic damage,
-carbon depletion, and structural changes may persist long after environmental
-conditions recover. A subsequent drought therefore acts on a different state of
-the system. The project asks when successive events buffer one another, when they
-amplify one another, and when incomplete recovery pushes a tree across the
-boundary between recovery and mortality.
+I am developing a minimal dynamical model of the two currencies a tree lives on
+through drought — its store of accessible carbon and the integrity of its
+water-transport system — and the feedback between them. Drought works on both at
+once: it starves the tree of new carbon while damaging its hydraulic system, and
+rebuilding that system itself costs carbon. A drought can therefore end with the
+tree alive but depleted and slow to recover, so the next one arrives at a
+different, weaker tree. The question is when a sequence of droughts buffers each
+other, when it compounds, and when incomplete recovery tips a tree from survival
+into decline.
 
-The dynamical-systems picture is the heart of it. Picture a plane whose axes are
-the tree's carbon reserves and its hydraulic function. A healthy, self-restoring
-state sits in one corner, separated by a threshold — a separatrix — from states
-that slide toward mortality. A drought temporarily bends the flow and displaces
-the tree; when it ends, the tree begins to recover, but from wherever the drought
-left it. A second drought that would have been survivable from full health can,
-arriving before recovery is complete, carry the tree across the threshold.
+The model is a deliberate simplification of an established carbon–hydraulic
+framework, pared down to the few processes that could let drought history matter
+at all. What makes it worth building is that a threshold between recovery and
+decline emerges from this feedback on its own, rather than being put in by hand:
+on one side the tree rebuilds and returns to health; on the other, repair can no
+longer keep pace and its carbon runs steadily down. Because drought enters as
+finite events rather than one permanent injury, the state a tree is left in is
+what meets the next event.
 
-The key idea is that disturbance history matters beyond cumulative severity: two
-drought sequences with similar total exposure can end very differently depending
-on how intense, how long, and how closely spaced the events are.
+That is enough to make the central point: what matters is not only how severe a
+drought is, but when it comes. Two droughts that each would have been survivable
+alone can prove lethal when they fall close together, with a critical spacing
+below which the second one tips the tree over — history, not cumulative severity,
+decides the outcome. The model is still exploratory and not yet calibrated; the
+work now is to see how far this minimal picture carries before another process
+has to be added.
 
 ---
 
