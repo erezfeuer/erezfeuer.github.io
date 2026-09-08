@@ -19,112 +19,68 @@ because the answer lives at the intersection of all three.
 
 ---
 
-## Disentangling soil and atmospheric drought
+## Which way is forest growth headed?
 
-*Published in [Plant, Cell & Environment](https://doi.org/10.1111/pce.15604) (2025).* &nbsp; <span class="badge bg-secondary">Published</span>
+Under climate change, will forests grow more or less? The honest answer is that
+it depends on where you look — and those local differences have tended to cancel
+out into a shrug, hiding whether there is any overall direction at all.
 
-Drought is not one thing. Trees experience it both through the **soil** (falling
-water availability at the roots) and through the **atmosphere** (rising vapor
-pressure deficit that pulls water from the canopy). These pressures usually
-arrive together, which makes their separate effects hard to disentangle — yet
-they act on the tree through different mechanisms.
+I ask whether that direction can be recovered. The approach is to let the data
+define the climate–growth relationship rather than assume it: I learn the
+**nonlinear response of tree growth to temperature, precipitation, and
+atmospheric water demand** from thousands of tree-ring records across the
+Northern Hemisphere, then push those relationships forward under climate
+projections to see where each forest lands. Reading the results not as a single
+snapshot but as trajectories through time turns out to matter — it separates
+losses that stick from gains that quietly fade.
 
-In a semi-arid pine forest, I used high-resolution **dendrometer** measurements
-together with an **irrigation experiment** — where relieving soil drought isolates
-the effect of atmospheric drought — to separate how each shapes the daily cycles
-of stem **growth, contraction, and recovery**. A central result: **heatwaves
-consistently depress stem expansion**, but the consequence depends on soil water.
-Trees with a soil-water buffer merely slow down, while trees already at the edge
-are pushed into net contraction — losing water and shrinking rather than growing.
-
-This is the first published chapter of my PhD.
-
-👉 **[Feuer et al. (2025), *Plant, Cell & Environment*](https://doi.org/10.1111/pce.15604)** &nbsp; <a href="files/Feuer-etal-2025-PCE-tree-growth-drought.pdf" class="btn btn-outline-secondary btn-sm" role="button"><i class="fas fa-file-pdf"></i> Download PDF</a>
+*This work is written up in a manuscript — see [Publications](publications.qmd).*
 
 ---
 
-## Losses outlast gains: a century of tree growth under climate change
+## Can the tree-ring record speak for a changing climate? {.ongoing}
 
-*In submission — with Stefan Klesse, Guy Amir, Nadav Peleg, and Yair Mau.* &nbsp; <span class="badge bg-info">In submission</span>
+Almost everything we know about tree growth at large scales rests on one archive:
+the global network of tree-ring records. But that archive was never assembled to
+be representative — it was built site by site, often chasing strong climate
+signals in cold or dry places. So a natural question is *what climates it can
+actually speak for.*
 
-Under climate change, will forests grow more or less? The answer differs from
-place to place, which has long obscured the overall direction. To trace it, we
-**learned nonlinear climate–growth relationships** from **4,110 Northern
-Hemisphere tree-ring chronologies** recorded since 1902 — more than **12 million
-ring-width measurements** — and projected them through the twenty-first century
-under CMIP6 climate scenarios.
-
-Two findings stand out:
-
-- **Growth is drawn steadily downward.** Across the Northern Hemisphere,
-  projected growth declines, driven by warming and rising atmospheric water
-  demand whose negative effect outweighs the gains from changing precipitation.
-- **Losses outlast gains.** The response is *temporally asymmetric*: once losses
-  emerge they are rarely reversed (about 90% retained), whereas gains tend to
-  fade (about 56% retained). The pattern holds in every well-sampled region and
-  strengthens under stronger warming, with the sharpest declines in the
-  Mediterranean and western and central Europe.
-
-The result reframes the question. Growth does not simply move back and forth
-between good years and bad — it is pulled in one direction.
-
-<a href="files/Feuer-etal-losses-outlast-gains.pdf" class="btn btn-outline-secondary btn-sm" role="button"><i class="fas fa-file-pdf"></i> Download manuscript (PDF)</a>
+I am building a **climate-space audit** of the archive: placing forests and the
+sampled records in a shared, multi-season climate space and asking how much of
+the climate that forests live in today — and will live in tomorrow — sits close
+to something we have actually measured. Two distinctions drive it: being *near* a
+sampled climate is not the same as being *well supported* by many of them; and a
+sampling bias that looks like a weakness today may, by chance, point in the same
+direction the climate is moving — pre-positioning the record for some future
+forests while leaving others increasingly off the map. The aim is a clear picture
+of where tree-ring–based inference stands on solid ground, and where new sampling
+would help most.
 
 ---
 
-## Where the tree-ring record can speak for a changing climate
+## When do survivable droughts become lethal in sequence? {.ongoing}
 
-*Ongoing.* &nbsp; <span class="badge bg-secondary">Ongoing</span>
+Tree death from drought is usually weighed one event at a time — how hot, how dry,
+how long. But trees live through *sequences* of droughts, and a drought that is
+survivable on its own can leave lasting marks: depleted carbon reserves, hydraulic
+damage, a thinned canopy. The next drought then arrives at a tree that is no longer
+the same tree.
 
-The **International Tree-Ring Data Bank (ITRDB)** is the largest archive of
-tree-ring records on Earth, and it underpins much of what we know about how
-forests respond to climate. But it was never designed as a climatic sample: some
-climates are densely represented, others barely at all. This project asks how
-well the record **covers the climates trees actually experience**, and how that
-coverage shifts as the climate warms.
+I am developing a deliberately **minimal dynamical-systems model** of a tree's
+carbon and hydraulic state to explore this memory. The question is not "how severe
+was the drought" but *when does history tip the balance* — when do successive
+events buffer one another, when do they compound, and when does incomplete recovery
+carry a tree past the point of return.
 
-Two ideas sit at its core:
-
-- **Space-for-time substitution.** Much of forest ecology assumes that spatial
-  climate gradients can stand in for change over time — that a warmer *place*
-  tells us about a warmer *future*. I examine how far that substitution actually
-  holds across the network: where places are interchangeable, and where they are
-  not.
-- **Novel climates.** As warming pushes forests toward conditions with no analog
-  in the existing record, parts of the world move **outside the sampled
-  envelope**. Mapping where coverage is dense versus sparse shows where the record
-  can support confident inference — and where new sampling would most improve our
-  ability to anticipate how forests respond.
-
----
-
-## Drought history reshapes tree survival under recurrent water stress
-
-*Ongoing — with Yair Mau.* &nbsp; <span class="badge bg-secondary">Work in progress</span>
-
-**When can survivable droughts become lethal in sequence?**
-
-I am developing a **minimal dynamical-systems model** of tree carbon and
-hydraulic function to explore how *drought history* changes the response to
-future stress. A drought can leave a tree alive but physiologically displaced:
-hydraulic damage, carbon depletion, and structural changes may persist long after
-environmental conditions recover. A subsequent drought therefore acts on a
-**different state of the system**. The project asks when successive events buffer
-one another, when they amplify one another, and when incomplete recovery pushes a
-tree across the boundary between recovery and mortality.
-
-The dynamical-systems picture is the heart of it. Picture a plane whose axes are
-the tree's **carbon reserves** and its **hydraulic function**. A healthy,
-self-restoring state sits in one corner, separated by a threshold — a
-*separatrix* — from states that slide toward mortality. A drought temporarily
-bends the flow and displaces the tree; when it ends, the tree begins to recover,
-but *from wherever the drought left it*. A second drought that would have been
-survivable from full health can, arriving before recovery is complete, carry the
-tree across the threshold.
-
-The key idea is that **disturbance history matters beyond cumulative severity**:
-two drought sequences with similar total exposure can end very differently
-depending on how intense, how long, and how closely spaced the events are.
+The picture below is the intuition behind the model. Imagine a plane whose axes are
+the tree's carbon reserves and its hydraulic function. A healthy, self-restoring
+state sits in one corner, separated by a threshold — a *separatrix* — from states
+that slide toward death. A drought bends the flow and pushes the tree off its
+healthy state; when it passes, recovery begins, but *from wherever the tree was
+left*. A second drought that full health would have shrugged off can, if it lands
+before recovery is complete, carry the tree across the threshold. History, not just
+total severity, decides the outcome.
 
 <figure>
 <svg viewBox="0 0 680 470" width="100%" style="max-width:680px; height:auto; font-family:Ubuntu, sans-serif;" role="img" aria-label="Phase-space schematic of tree survival: a healthy equilibrium and a separatrix dividing a recovery basin from irreversible decline. A first drought displaces the tree, partial recovery follows, and a second drought crosses the separatrix into mortality.">
@@ -188,9 +144,27 @@ depending on how intense, how long, and how closely spaced the events are.
   <text x="245" y="285" font-size="13" fill="#C0392B" font-weight="bold">mortality</text>
 </svg>
 <figcaption style="font-size:15px; color:#555; margin-top:0.4rem;">
-A conceptual phase portrait. Drought temporarily bends the flow and moves the tree away from its healthy state; physiological memory is stored in where the tree is left. The <em>same</em> second drought is survivable from full health (grey) but lethal when it arrives during incomplete recovery (red) — history, not just total severity, decides the outcome.
+A conceptual phase portrait. Drought moves the tree away from its healthy state, and physiological memory is stored in where it is left. The <em>same</em> second drought is survivable from full health (grey) but lethal when it lands during incomplete recovery (red).
 </figcaption>
 </figure>
+
+---
+
+## Reading drought from the stem, hour by hour
+
+Drought reaches a tree two ways at once — through the **soil**, as water runs
+short at the roots, and through the **atmosphere**, as dry air pulls water from
+the canopy. They usually arrive together, which makes their separate fingerprints
+hard to tell apart.
+
+I use trees' own micro-movements to pull them apart. High-resolution
+**dendrometers** record a stem swelling and shrinking through the day, and pairing
+them with an irrigation experiment — where relieving soil drought leaves only the
+atmospheric signal — lets me read growth, water status, and recovery straight from
+the stem. It shows, among other things, that whether a heatwave merely slows a tree
+or tips it into shrinking depends on the soil water it has to fall back on.
+
+*This work is published — see [Publications](publications.qmd).*
 
 ---
 
@@ -198,15 +172,16 @@ A conceptual phase portrait. Drought temporarily bends the flow and moves the tr
 
 My longer-term interest is the **mechanistic basis of tree growth and mortality
 under climate change** — how the twin currencies of tree health, **carbon** and
-**water**, are drawn down as the climate shifts, and how that determines which
-trees recover and which cross the line into decline.
+**water**, are drawn down as the climate shifts, and how that decides which trees
+recover and which cross the line into decline.
 
 I want to keep working across scales and methods: from **individual-tree
 physiology** measured at high resolution, to **continental patterns** in the
-tree-ring record, to **mechanistic models** that tie the two together. The
-unifying goal is to understand — and eventually forecast — forest **resilience
-and vulnerability**: not just how trees respond to the climate they have known,
-but how they will fare in the climates they are about to meet.
+tree-ring record, to **mechanistic models** that tie the two together — and, where
+it helps, building the **sensors** that gather the data in the first place. The
+unifying goal is to understand, and eventually forecast, forest **resilience and
+vulnerability**: not just how trees respond to the climate they have known, but how
+they will fare in the climates they are about to meet.
 
 I am **seeking postdoc opportunities beginning fall 2027**, and I welcome
 conversations about projects and collaborations along these lines.
