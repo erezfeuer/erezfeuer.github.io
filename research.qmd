@@ -23,19 +23,18 @@ because the answer lives at the intersection of all three.
 
 Drought is not one thing. Trees experience it both through the soil (falling
 water availability at the roots) and through the atmosphere (rising vapor
-pressure deficit that pulls water from the canopy). These pressures usually
-arrive together, which makes their separate effects hard to disentangle — yet
-they act on the tree through different mechanisms.
+pressure deficit that pulls water from the canopy). These pressures can act on
+their own or overlap, and because they reach the tree through different
+mechanisms, telling their effects apart is not straightforward.
 
 In a semi-arid pine forest, I used high-resolution dendrometer measurements
 together with an irrigation experiment — where relieving soil drought isolates
 the effect of atmospheric drought — to separate how each shapes the daily cycles
 of stem growth, contraction, and recovery. A central result: heatwaves
 consistently depress stem expansion, but the consequence depends on soil water.
-Trees with a soil-water buffer merely slow down, while trees already at the edge
-are pushed into net contraction — losing water and shrinking rather than growing.
-
-This is the first published chapter of my PhD.
+Trees with a soil-water buffer keep growing, only at a reduced pace, while trees
+already at the edge stop growing altogether and are driven into contraction —
+losing water and shrinking rather than growing.
 
 [Read the manuscript &#8594;](files/Feuer-etal-2025-PCE-tree-growth-drought.pdf)
 
@@ -73,15 +72,17 @@ densely represented, others barely at all. This project asks how well the record
 covers the climates trees actually experience, and how that coverage shifts as
 the climate warms.
 
-Two ideas sit at its core. The first is space-for-time substitution — the common
-assumption that spatial climate gradients can stand in for change over time, that
-a warmer place tells us about a warmer future; I examine how far that holds across
-the network, where places are interchangeable and where they are not. The second
-is novel climates: as warming pushes forests toward conditions with no analog in
-the existing record, parts of the world move outside the sampled envelope.
-Mapping where coverage is dense versus sparse shows where the record can support
-confident inference, and where new sampling would most improve our ability to
-anticipate how forests respond.
+Two ideas sit at its core:
+
+- Space-for-time substitution — the common assumption that spatial climate
+  gradients can stand in for change over time, that a warmer place tells us about
+  a warmer future; I examine how far that holds across the network, where places
+  are interchangeable and where they are not.
+- Novel climates — as warming pushes forests toward conditions with no analog in
+  the existing record, parts of the world move outside the sampled envelope.
+  Mapping where coverage is dense versus sparse shows where the record can support
+  confident inference, and where new sampling would most improve our ability to
+  anticipate how forests respond.
 
 ---
 
@@ -110,24 +111,27 @@ how survival depends on the intensity, frequency, and duration of droughts and t
 timing between them. Events that are each survivable in isolation can carry a tree
 across the point of no return when they fall close together, before hydraulic
 capacity has been rebuilt — so that the sequence, and not the cumulative stress,
-sets the outcome. What I am after is whether carbon–hydraulic feedback alone is
-enough to make that history matter.
+sets the outcome. A minimal model like this is valuable for what it explains: it
+shows what has to hold — which processes must be present, and which must dominate
+which — for a sequence of survivable droughts to end in death. If reproducing that
+behaviour calls for more state variables, that is itself part of what there is to
+learn.
 
 ---
 
 ## Future directions
 
 My longer-term interest is the mechanistic basis of tree growth and mortality
-under climate change — how the twin currencies of tree health, carbon and water,
-are drawn down as the climate shifts, and how that determines which trees recover
-and which cross the line into decline.
+under climate change — how the resources and tissues that keep a tree alive, from
+carbon reserves to water transport to the canopy that supplies them, are drawn
+down as the climate shifts, and what decides which trees recover and which move
+into decline.
 
 I want to keep working across scales and methods: from individual-tree physiology
 measured at high resolution, to continental patterns in the tree-ring record, to
 mechanistic models that tie the two together. The unifying goal is to understand,
-and eventually forecast, forest resilience and vulnerability — not just how trees
-respond to the climate they have known, but how they will fare in the climates
-they are about to meet.
+and eventually forecast, the resilience and vulnerability of forests as they move
+into climates with few analogs in their past.
 
 I am seeking postdoc opportunities beginning fall 2027, and I welcome
 conversations about projects and collaborations along these lines.
