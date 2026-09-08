@@ -1,0 +1,55 @@
+name: Render Quarto site
+
+# Renders the .qmd sources with Quarto and commits the updated `docs/`
+# back to the branch. GitHub Pages serves `docs/` from `main`, so once
+# CI pushes the render the live site updates automatically.
+#
+# Just edit the .qmd files and push — you don't need to run
+# `quarto render` locally anymore.
+
+on:
+  push:
+    branches: [main]
+    # Ignore the paths this workflow writes back, so its own commit
+    # doesn't trigger another run (no infinite loop).
+    paths-ignore:
+      - 'docs/**'
+      - '_freeze/**'
+  # Allow running it by hand from the Actions tab.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: '1.7.32'
+
+      - name: Render site
+        run: quarto render
+
+      - name: Commit rendered output
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Clean up a debug artifact Quarto may drop when parsing the SCSS theme.
+          rm -f _quarto_internal_scss_error.scss
+          git add docs _freeze
+          if git diff --cached --quiet; then
+            echo "No changes to commit — site already up to date."
+          else
+            git commit -m "Render Quarto site [skip ci]"
+            git push
+          fi
