@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.5.54">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -30,16 +30,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-561d99fde0bfffcb0205b3c9618ed9b4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed research-page">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -137,8 +136,9 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#disentangling-soil-and-atmospheric-drought" id="toc-disentangling-soil-and-atmospheric-drought" class="nav-link active" data-scroll-target="#disentangling-soil-and-atmospheric-drought">Disentangling soil and atmospheric drought</a></li>
   <li><a href="#losses-outlast-gains-a-century-of-tree-growth-under-climate-change" id="toc-losses-outlast-gains-a-century-of-tree-growth-under-climate-change" class="nav-link" data-scroll-target="#losses-outlast-gains-a-century-of-tree-growth-under-climate-change">Losses outlast gains: a century of tree growth under climate change</a></li>
+  <li><a href="#drought-history-and-tree-survival-under-recurrent-water-stress" id="toc-drought-history-and-tree-survival-under-recurrent-water-stress" class="nav-link" data-scroll-target="#drought-history-and-tree-survival-under-recurrent-water-stress">Drought history and tree survival under recurrent water stress</a></li>
   <li><a href="#where-the-tree-ring-record-can-speak-for-a-changing-climate" id="toc-where-the-tree-ring-record-can-speak-for-a-changing-climate" class="nav-link" data-scroll-target="#where-the-tree-ring-record-can-speak-for-a-changing-climate">Where the tree-ring record can speak for a changing climate</a></li>
-  <li><a href="#drought-history-reshapes-tree-survival-under-recurrent-water-stress" id="toc-drought-history-reshapes-tree-survival-under-recurrent-water-stress" class="nav-link" data-scroll-target="#drought-history-reshapes-tree-survival-under-recurrent-water-stress">Drought history reshapes tree survival under recurrent water stress</a></li>
+  <li><a href="#revealing-whole-tree-dynamics-through-time-lapse-video" id="toc-revealing-whole-tree-dynamics-through-time-lapse-video" class="nav-link" data-scroll-target="#revealing-whole-tree-dynamics-through-time-lapse-video">Revealing whole-tree dynamics through time-lapse video</a></li>
   <li><a href="#future-directions" id="toc-future-directions" class="nav-link" data-scroll-target="#future-directions">Future directions</a></li>
   </ul>
 </nav>
@@ -165,291 +165,299 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I study how climate shapes the growth, function, and survival of trees — from the slow pressure of shifting averages to the sharp blows of drought and heat, and the long shadow these leave behind. My work combines ecological and climate time-series analysis, statistical and machine-learning models, and dynamical-systems thinking, drawing on dendrometer records, flux-tower data, global tree-ring archives, and high-resolution climate datasets.</p>
-<p>Across projects, a single question recurs: how does a changing climate reshape the long-term trajectory of tree growth, function, and survival? I approach it from several directions at once — data-driven, mechanistic, and instrumental — because the answer lives at the intersection of all three.</p>
+<p>How does a changing climate alter the way trees grow, function, and survive? I study this question across timescales, from gradual shifts in average conditions to droughts, heat extremes, and their persistent effects. My work combines ecological and climate time-series analysis, statistical and machine-learning models, and dynamical-systems approaches, drawing on dendrometer records, flux-tower data, global tree-ring archives, and high-resolution climate datasets.</p>
 <hr>
 <section id="disentangling-soil-and-atmospheric-drought" class="level2">
 <h2 class="anchored" data-anchor-id="disentangling-soil-and-atmospheric-drought">Disentangling soil and atmospheric drought</h2>
-<p>Drought is not one thing. Trees experience it both through the soil (falling water availability at the roots) and through the atmosphere (rising vapor pressure deficit that pulls water from the canopy). These pressures can act on their own or overlap, and because they reach the tree through different mechanisms, telling their effects apart is not straightforward.</p>
-<p>In a semi-arid pine forest, I used high-resolution dendrometer measurements together with an irrigation experiment — where relieving soil drought isolates the effect of atmospheric drought — to separate how each shapes the daily cycles of stem growth, contraction, and recovery. A central result: heatwaves consistently depress stem expansion, but the consequence depends on soil water. Trees with a soil-water buffer keep growing, only at a reduced pace, while trees already at the edge stop growing altogether and are driven into contraction — losing water and shrinking rather than growing.</p>
-<p><a href="files/Feuer-etal-2025-PCE-tree-growth-drought.pdf">Read the manuscript →</a></p>
+<p>Drought stress in trees can arise from both declining soil water availability and increasing atmospheric water demand. These two forms of drought act through different pathways but often occur together, making their effects difficult to separate.</p>
+<p>In a semi-arid pine forest, I used high-resolution dendrometer measurements together with an irrigation experiment that relieved soil drought while leaving atmospheric conditions unchanged. This allowed me to separate the effects of atmospheric drought alone from those of combined atmospheric and soil drought on daily stem growth, contraction, and recovery. During periods of high atmospheric water demand, trees with sufficient soil water continued to grow, although at a reduced rate. When high atmospheric demand coincided with soil drought, growth stopped and stems instead contracted.</p>
+<p><a href="files/Feuer-etal-2025-PCE-tree-growth-drought.pdf" target="_blank" rel="noopener noreferrer">Read the manuscript →</a></p>
 <hr>
 </section>
 <section id="losses-outlast-gains-a-century-of-tree-growth-under-climate-change" class="level2">
 <h2 class="anchored" data-anchor-id="losses-outlast-gains-a-century-of-tree-growth-under-climate-change">Losses outlast gains: a century of tree growth under climate change</h2>
-<p>Under climate change, will forests grow more or less? The answer differs from place to place, which has long obscured the overall direction. To trace it, we learned nonlinear climate–growth relationships from 4,110 Northern Hemisphere tree-ring chronologies recorded since 1902 — more than 12 million ring-width measurements — and projected them through the twenty-first century under CMIP6 climate scenarios.</p>
+<p>Under climate change, will forests grow more or less? Tree-growth responses vary across regions and climatic conditions, making them difficult to generalize. To trace these responses, we learned nonlinear climate–growth relationships from 4,110 Northern Hemisphere tree-ring chronologies recorded since 1902 — more than 12 million ring-width measurements — and projected them through the twenty-first century under CMIP6 climate scenarios.</p>
 <p>Two findings stand out:</p>
 <ul>
-<li>Across the Northern Hemisphere, projected growth declines, driven by warming and rising atmospheric water demand whose negative effect outweighs the gains from changing precipitation.</li>
-<li>The response is asymmetric in time: once losses emerge they are rarely reversed, whereas gains tend to fade. The pattern holds in every well-sampled region and strengthens under stronger warming, with the sharpest declines in the Mediterranean and western and central Europe.</li>
+<li><p>Across the Northern Hemisphere, projected growth declines, driven by warming and rising atmospheric water demand whose negative effect outweighs the gains from changing precipitation.</p></li>
+<li><p>The response is asymmetric in time: once losses emerge they are rarely reversed, whereas gains tend to fade. The pattern holds in every well-sampled region and strengthens under stronger warming. This asymmetry reflects the nonlinear climate–growth response: warming can initially favor growth in colder, low-demand climates, but continued warming and rising atmospheric demand erode those gains.</p></li>
 </ul>
-<p><a href="files/Feuer-etal-losses-outlast-gains.pdf">Read the manuscript →</a></p>
+<p><a href="files/Feuer-etal-losses-outlast-gains.pdf" target="_blank" rel="noopener noreferrer">Read the manuscript →</a></p>
+<hr>
+</section>
+<section id="drought-history-and-tree-survival-under-recurrent-water-stress" class="level2">
+<h2 class="anchored" data-anchor-id="drought-history-and-tree-survival-under-recurrent-water-stress">Drought history and tree survival under recurrent water stress</h2>
+<p>I am developing a low-dimensional dynamical model of tree drought recovery, building on carbon–hydraulic frameworks in which drought damage can impair water transport and alter carbon allocation during recovery. Rather than treating drought as a single perturbation followed by fixed recovery conditions, I am interested in how the system evolves under recurrent drought.</p>
+<p>In this framework, drought changes the dynamics themselves: its intensity alters the phase space, its duration determines how long the tree evolves under those conditions, and its frequency determines how much recovery occurs before the next event. This makes it possible to ask how drought history shapes survival, and when sequences of individually survivable events can push a tree beyond the threshold for recovery.</p>
 <hr>
 </section>
 <section id="where-the-tree-ring-record-can-speak-for-a-changing-climate" class="level2">
 <h2 class="anchored" data-anchor-id="where-the-tree-ring-record-can-speak-for-a-changing-climate">Where the tree-ring record can speak for a changing climate</h2>
-<p>The International Tree-Ring Data Bank is the largest archive of tree-ring records on Earth, and it underpins much of what we know about how forests respond to climate. But it was never designed as a climatic sample: some climates are densely represented, others barely at all. This project asks how well the record covers the climates trees actually experience, and how that coverage shifts as the climate warms.</p>
-<p>Two ideas sit at its core:</p>
+<p>The International Tree-Ring Data Bank is the largest archive of tree-ring records on Earth and a major resource for dendroclimatology. But its sites were assembled for many purposes, often to capture strong climate signals rather than to represent the full range of climates occupied by forests. This project quantifies how well the archive samples that multidimensional climate space, where coverage is dense or sparse, and how that coverage changes as the climate warms.</p>
+<p>Three questions sit at its core:</p>
 <ul>
-<li>Space-for-time substitution — the common assumption that spatial climate gradients can stand in for change over time, that a warmer place tells us about a warmer future; I examine how far that holds across the network, where places are interchangeable and where they are not.</li>
-<li>Novel climates — as warming pushes forests toward conditions with no analog in the existing record, parts of the world move outside the sampled envelope. Mapping where coverage is dense versus sparse shows where the record can support confident inference, and where new sampling would most improve our ability to anticipate how forests respond.</li>
+<li><p>Climatic representation: how well does the tree-ring network represent the climates occupied by forests globally? I compare the distribution of tree-ring sites with global forest cover in multidimensional climate space, identifying where that space is well sampled and where important gaps remain.</p></li>
+<li><p>Space-for-time substitution: a common assumption in climate-change ecology is that spatial climate gradients can inform responses to change through time. I examine where the existing network provides suitable climatic analogs for this approach, and where that assumption becomes less well supported.</p></li>
+<li><p>Novel climates: as climate change shifts forests toward new combinations of conditions, some may move beyond the climate space represented in the existing record. Mapping these emerging gaps shows where inference becomes more uncertain and where additional sampling could be most valuable.</p></li>
 </ul>
 <hr>
 </section>
-<section id="drought-history-reshapes-tree-survival-under-recurrent-water-stress" class="level2">
-<h2 class="anchored" data-anchor-id="drought-history-reshapes-tree-survival-under-recurrent-water-stress">Drought history reshapes tree survival under recurrent water stress</h2>
-<p>I am developing a minimal dynamical model of two coupled quantities that govern how a tree endures drought: its accessible carbon reserves and the functional capacity of its water-transport system. The two are linked. During drought a tree cannot fix carbon while it continues to respire, and its hydraulic system is damaged at the same time; restoring that capacity draws further on the same carbon reserves. A drought therefore leaves the tree in a different state — lower carbon, impaired hydraulics — and the next drought acts on that altered state rather than on a healthy one.</p>
-<p>The model is a deliberate reduction of an established carbon–hydraulic framework, kept to the few processes that could let this history matter. Under ordinary conditions it has a healthy equilibrium and a threshold — a tipping point, or point of no return — that separates states that recover from states whose carbon is drawn down without recovering. This threshold is not imposed; it emerges from the carbon–hydraulic feedback itself. A drought reshapes the phase space for as long as it lasts, driving the tree toward that threshold; when it lifts, the flow relaxes to normal, but the tree resumes from wherever it was left.</p>
-<p>Because a tree meets not a single drought but a regime of them, the question is how survival depends on the intensity, frequency, and duration of droughts and the timing between them. Events that are each survivable in isolation can carry a tree across the point of no return when they fall close together, before hydraulic capacity has been rebuilt — so that the sequence, and not the cumulative stress, sets the outcome.</p>
+<section id="revealing-whole-tree-dynamics-through-time-lapse-video" class="level2">
+<h2 class="anchored" data-anchor-id="revealing-whole-tree-dynamics-through-time-lapse-video">Revealing whole-tree dynamics through time-lapse video</h2>
+<p><em>Exploratory work — preliminary example.</em></p>
+<p>Can time-lapse video reveal otherwise invisible dynamics of the <strong>whole tree</strong>? Dendrometers are widely used to track stem growth and shrinkage, but each sensor measures changes at a single location. I am exploring whether time-lapse video and motion amplification can extend these local observations to the whole tree, revealing how the stem, branches, and canopy move together. By pairing video with dendrometer measurements, I aim to connect these movements to tree water status and environmental forcing. The preliminary example below focuses on the stem.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="archive/images/research/tree-motion.gif" class="img-fluid figure-img" loading="lazy" alt="Side-by-side time-lapse of a tree stem: original video on the left and amplified motion on the right, with a dendrometer diameter trace below." width="320"></p>
+<figcaption>Original time-lapse on the left; amplified motion on the right, with dendrometer measurements below. Preliminary example from a two-week recording.</figcaption>
+</figure>
+</div>
 <hr>
 </section>
 <section id="future-directions" class="level2">
 <h2 class="anchored" data-anchor-id="future-directions">Future directions</h2>
-<p>What ties my work together is a broad concern with how climate change is reshaping the fate of trees and forests — their growth, their survival, and where they can live — and with what that means for the carbon forests store and release, and for the feedbacks between forests and the climate itself.</p>
-<p>I am interested in the full range of pressures a warming world places on trees, from drought and heat extremes to fire and biotic agents, and in following them across scales — from individual trees measured at high resolution to global assessments built on remote sensing and large ecological datasets. I move between measurement, theory, and modelling as each question demands.</p>
-<p>I am seeking postdoc opportunities beginning fall 2027, and I welcome conversations about projects and collaborations along these lines.</p>
+<p>Across these projects, my broader goal is to understand how climate alters the trajectories of trees and forests across timescales and spatial scales. I want to extend this work from growth and physiological responses to their consequences for tree survival, forest carbon dynamics, and ultimately forest–climate feedbacks.</p>
+<p>An important direction for me is how multiple forms of stress and disturbance, including drought, heat, fire, and biotic agents, interact to shape forest responses to climate change. I want to pursue these questions across scales, from high-resolution measurements of individual trees to landscape and global analyses using remote sensing and large ecological datasets, combining measurement, theory, and modelling as the question demands.</p>
+<p>I am seeking postdoctoral opportunities beginning fall 2027 to develop this research further.</p>
 
 
 </section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-  window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
-    const isCodeAnnotation = (el) => {
-      for (const clz of el.classList) {
-        if (clz.startsWith('code-annotation-')) {                     
-          return true;
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
       }
-      return false;
-    }
-    const onCopySuccess = function(e) {
-      // button target
-      const button = e.trigger;
-      // don't keep focus
-      button.blur();
-      // flash "checked"
-      button.classList.add('code-copy-button-checked');
-      var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
-      let tooltip;
-      if (window.bootstrap) {
-        button.setAttribute("data-bs-toggle", "tooltip");
-        button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
-        tooltip = new bootstrap.Tooltip(button, 
-          { trigger: "manual", 
-            customClass: "code-copy-button-tooltip",
-            offset: [0, -8]});
-        tooltip.show();    
-      }
-      setTimeout(function() {
-        if (tooltip) {
-          tooltip.hide();
-          button.removeAttribute("data-bs-title");
-          button.removeAttribute("data-bs-toggle");
-          button.removeAttribute("data-bs-placement");
-        }
-        button.setAttribute("title", currentTitle);
-        button.classList.remove('code-copy-button-checked');
-      }, 1000);
-      // clear code selection
-      e.clearSelection();
-    }
-    const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
-        }
-        return codeEl.innerText;
-    }
-    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-      text: getTextToCopy
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
     });
-    clipboard.on('success', onCopySuccess);
-    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-        text: getTextToCopy,
-        container: window.document.getElementById('quarto-embedded-source-code-modal')
-      });
-      clipboardModal.on('success', onCopySuccess);
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
-      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
-      var isInternal = (href) => {
-          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-      }
-      // Inspect non-navigation links and adorn them if external
-     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-      for (var i=0; i<links.length; i++) {
-        const link = links[i];
-        if (!isInternal(link.href)) {
-          // undo the damage that might have been done by quarto-nav.js in the case of
-          // links that we want to consider external
-          if (link.dataset.originalHref !== undefined) {
-            link.href = link.dataset.originalHref;
-          }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
         }
       }
-    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-      const config = {
-        allowHTML: true,
-        maxWidth: 500,
-        delay: 100,
-        arrow: false,
-        appendTo: function(el) {
-            return el.parentElement;
-        },
-        interactive: true,
-        interactiveBorder: 10,
-        theme: 'quarto',
-        placement: 'bottom-start',
-      };
-      if (contentFn) {
-        config.content = contentFn;
-      }
-      if (onTriggerFn) {
-        config.onTrigger = onTriggerFn;
-      }
-      if (onUntriggerFn) {
-        config.onUntrigger = onUntriggerFn;
-      }
-      window.tippy(el, config); 
     }
-    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-    for (var i=0; i<noterefs.length; i++) {
-      const ref = noterefs[i];
-      tippyHover(ref, function() {
-        // use id or data attribute instead here
-        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-        try { href = new URL(href).hash; } catch {}
-        const id = href.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note) {
-          return note.innerHTML;
-        } else {
-          return "";
-        }
-      });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
     }
-    const xrefs = window.document.querySelectorAll('a.quarto-xref');
-    const processXRef = (id, note) => {
-      // Strip column container classes
-      const stripColumnClz = (el) => {
-        el.classList.remove("page-full", "page-columns");
-        if (el.children) {
-          for (const child of el.children) {
-            stripColumnClz(child);
-          }
-        }
-      }
-      stripColumnClz(note)
-      if (id === null || id.startsWith('sec-')) {
-        // Special case sections, only their first couple elements
-        const container = document.createElement("div");
-        if (note.children && note.children.length > 2) {
-          container.appendChild(note.children[0].cloneNode(true));
-          for (let i = 1; i < note.children.length; i++) {
-            const child = note.children[i];
-            if (child.tagName === "P" && child.innerText === "") {
-              continue;
-            } else {
-              container.appendChild(child.cloneNode(true));
-              break;
-            }
-          }
-          if (window.Quarto?.typesetMath) {
-            window.Quarto.typesetMath(container);
-          }
-          return container.innerHTML
-        } else {
-          if (window.Quarto?.typesetMath) {
-            window.Quarto.typesetMath(note);
-          }
-          return note.innerHTML;
-        }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
       } else {
-        // Remove any anchor links if they are present
-        const anchorLink = note.querySelector('a.anchorjs-link');
-        if (anchorLink) {
-          anchorLink.remove();
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
         }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
         if (window.Quarto?.typesetMath) {
           window.Quarto.typesetMath(note);
         }
-        if (note.classList.contains("callout")) {
-          return note.outerHTML;
-        } else {
-          return note.innerHTML;
-        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
       }
     }
-    for (var i=0; i<xrefs.length; i++) {
-      const xref = xrefs[i];
-      tippyHover(xref, undefined, function(instance) {
-        instance.disable();
-        let url = xref.getAttribute('href');
-        let hash = undefined; 
-        if (url.startsWith('#')) {
-          hash = url;
-        } else {
-          try { hash = new URL(url).hash; } catch {}
-        }
-        if (hash) {
-          const id = hash.replace(/^#\/?/, "");
-          const note = window.document.getElementById(id);
-          if (note !== null) {
-            try {
-              const html = processXRef(id, note.cloneNode(true));
-              instance.setContent(html);
-            } finally {
-              instance.enable();
-              instance.show();
-            }
-          } else {
-            // See if we can fetch this
-            fetch(url.split('#')[0])
-            .then(res => res.text())
-            .then(html => {
-              const parser = new DOMParser();
-              const htmlDoc = parser.parseFromString(html, "text/html");
-              const note = htmlDoc.getElementById(id);
-              if (note !== null) {
-                const html = processXRef(id, note);
-                instance.setContent(html);
-              } 
-            }).finally(() => {
-              instance.enable();
-              instance.show();
-            });
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
           }
         } else {
-          // See if we can fetch a full url (with no hash to target)
-          // This is a special case and we should probably do some content thinning / targeting
-          fetch(url)
+          // See if we can fetch this
+          fetch(url.split('#')[0])
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.querySelector('main.content');
+            const note = htmlDoc.getElementById(id);
             if (note !== null) {
-              // This should only happen for chapter cross references
-              // (since there is no id in the URL)
-              // remove the first header
-              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-                note.children[0].remove();
-              }
-              const html = processXRef(null, note);
+              const html = processXRef(id, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -457,161 +465,185 @@ ul.task-list li input[type="checkbox"] {
             instance.show();
           });
         }
-      }, function(instance) {
-      });
-    }
-        let selectedAnnoteEl;
-        const selectorForAnnotation = ( cell, annotation) => {
-          let cellAttr = 'data-code-cell="' + cell + '"';
-          let lineAttr = 'data-code-annotation="' +  annotation + '"';
-          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-          return selector;
-        }
-        const selectCodeLines = (annoteEl) => {
-          const doc = window.document;
-          const targetCell = annoteEl.getAttribute("data-target-cell");
-          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-          const lineIds = lines.map((line) => {
-            return targetCell + "-" + line;
-          })
-          let top = null;
-          let height = null;
-          let parent = null;
-          if (lineIds.length > 0) {
-              //compute the position of the single el (top and bottom and make a div)
-              const el = window.document.getElementById(lineIds[0]);
-              top = el.offsetTop;
-              height = el.offsetHeight;
-              parent = el.parentElement.parentElement;
-            if (lineIds.length > 1) {
-              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-              height = bottom - top;
-            }
-            if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
-              let div = window.document.getElementById("code-annotation-line-highlight");
-              if (div === null) {
-                div = window.document.createElement("div");
-                div.setAttribute("id", "code-annotation-line-highlight");
-                div.style.position = 'absolute';
-                parent.appendChild(div);
-              }
-              div.style.top = top - 2 + "px";
-              div.style.height = height + 4 + "px";
-              div.style.left = 0;
-              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-              if (gutterDiv === null) {
-                gutterDiv = window.document.createElement("div");
-                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-                gutterDiv.style.position = 'absolute';
-                const codeCell = window.document.getElementById(targetCell);
-                const gutter = codeCell.querySelector('.code-annotation-gutter');
-                gutter.appendChild(gutterDiv);
-              }
-              gutterDiv.style.top = top - 2 + "px";
-              gutterDiv.style.height = height + 4 + "px";
-            }
-            selectedAnnoteEl = annoteEl;
-          }
-        };
-        const unselectCodeLines = () => {
-          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-          elementsIds.forEach((elId) => {
-            const div = window.document.getElementById(elId);
-            if (div) {
-              div.remove();
-            }
-          });
-          selectedAnnoteEl = undefined;
-        };
-          // Handle positioning of the toggle
-      window.addEventListener(
-        "resize",
-        throttle(() => {
-          elRect = undefined;
-          if (selectedAnnoteEl) {
-            selectCodeLines(selectedAnnoteEl);
-          }
-        }, 10)
-      );
-      function throttle(fn, ms) {
-      let throttle = false;
-      let timer;
-        return (...args) => {
-          if(!throttle) { // first call gets through
-              fn.apply(this, args);
-              throttle = true;
-          } else { // all the others get throttled
-              if(timer) clearTimeout(timer); // cancel #2
-              timer = setTimeout(() => {
-                fn.apply(this, args);
-                timer = throttle = false;
-              }, ms);
-          }
-        };
-      }
-        // Attach click handler to the DT
-        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-        for (const annoteDlNode of annoteDls) {
-          annoteDlNode.addEventListener('click', (event) => {
-            const clickedEl = event.target;
-            if (clickedEl !== selectedAnnoteEl) {
-              unselectCodeLines();
-              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-              if (activeEl) {
-                activeEl.classList.remove('code-annotation-active');
-              }
-              selectCodeLines(clickedEl);
-              clickedEl.classList.add('code-annotation-active');
-            } else {
-              // Unselect the line
-              unselectCodeLines();
-              clickedEl.classList.remove('code-annotation-active');
-            }
-          });
-        }
-    const findCites = (el) => {
-      const parentEl = el.parentElement;
-      if (parentEl) {
-        const cites = parentEl.dataset.cites;
-        if (cites) {
-          return {
-            el,
-            cites: cites.split(' ')
-          };
-        } else {
-          return findCites(el.parentElement)
-        }
       } else {
-        return undefined;
-      }
-    };
-    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-    for (var i=0; i<bibliorefs.length; i++) {
-      const ref = bibliorefs[i];
-      const citeInfo = findCites(ref);
-      if (citeInfo) {
-        tippyHover(citeInfo.el, function() {
-          var popup = window.document.createElement('div');
-          citeInfo.cites.forEach(function(cite) {
-            var citeDiv = window.document.createElement('div');
-            citeDiv.classList.add('hanging-indent');
-            citeDiv.classList.add('csl-entry');
-            var biblioDiv = window.document.getElementById('ref-' + cite);
-            if (biblioDiv) {
-              citeDiv.innerHTML = biblioDiv.innerHTML;
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
             }
-            popup.appendChild(citeDiv);
-          });
-          return popup.innerHTML;
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
         });
       }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
     }
-  });
-  </script>
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
 </div> <!-- /content -->
 
 

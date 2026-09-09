@@ -1,1 +1,29 @@
 /* css styles */
+
+/* Spacing for the research page. */
+.research-page main.content p,
+.research-page main.content li {
+  line-height: 1.7;
+}
+
+.research-page main.content p,
+.research-page main.content ul,
+.research-page main.content ol {
+  margin-bottom: 1.5rem;
+}
+
+.research-page main.content li + li {
+  margin-top: 0.85rem;
+}
+
+.research-page main.content h2 {
+  margin-bottom: 1.25rem;
+}
+
+.research-page main.content hr {
+  margin-block: clamp(2.25rem, 5vw, 3.5rem);
+}
+
+.research-page main.content figure {
+  margin-block: 2rem;
+}

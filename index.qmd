@@ -24,7 +24,7 @@ https://stackoverflow.com/questions/18032220/how-to-change-source-of-img-tag-on-
 ----
 
 <!-- <span class="iconify" data-icon="bi:person-circle"></span> **Senior Lecturer**   -->
-<span class="iconify" data-icon="icomoon-free:leaf" data-rotate="270deg"></span> **Institute of Environmental Sciences**  
+<span class="iconify" data-icon="icomoon-free:leaf" data-rotate="270deg"></span> **Institute of Environmental Science**  
  <img class="invert" src="archive/images/huji-gray-transparent.png" width="18" style='vertical-align:top;' align="left"> &nbsp; **The Hebrew University of Jerusalem**
 ::::
 
@@ -38,11 +38,17 @@ https://stackoverflow.com/questions/18032220/how-to-change-source-of-img-tag-on-
 
 ## About
 
-I am an environmental scientist studying how trees respond to heatwaves, drought, and other short-term climate extremes.My research centers on the analysis of ecological and climate time series. I use statistical modeling, machine learning, and dynamical systems to understand how trees grow under baseline conditions and how short-term climate extremes affect them. I work extensively with dendrometer and flux-tower data, tree-ring archives, and high-resolution climate datasets to understand resilience, legacy effects, and the mechanisms that shape tree function in a warming world.
+I am an environmental scientist studying how climate change shapes the growth,
+function, and survival of trees and forests. I am interested in how gradual
+changes and extreme events interact, how their effects accumulate over time, and
+what they mean for the future of forests. My work combines observations across
+scales with statistical and mechanistic models to understand these responses.
+
+[View CV (PDF)](archive/documents/CV_Erez.pdf){.btn .btn-outline-secondary .btn-sm target="_blank" rel="noopener noreferrer"}
 
 ## Short Bio
 
-**2022–to date:** PhD, Institute of Environmental Sciences, The Hebrew University of Jerusalem  
+**2022–to date:** PhD, Institute of Environmental Science, The Hebrew University of Jerusalem  
 
 **2022:** MSc in Plant Science, The Hebrew University of Jerusalem — *summa cum laude*  
 
@@ -60,5 +66,3 @@ Outside of research, I’m a trumpet player and longtime jazz musician. I grow *
 I welcome conversations about potential projects and collaborations.
 
 ---
-
-

@@ -1,132 +1,82 @@
 ---
 title: "Research"
 page-layout: article
+body-classes: research-page
 toc: true
 toc-title: "Projects"
 ---
 
-I study how climate shapes the growth, function, and survival of trees — from the
-slow pressure of shifting averages to the sharp blows of drought and heat, and
-the long shadow these leave behind. My work combines ecological and climate
-time-series analysis, statistical and machine-learning models, and
-dynamical-systems thinking, drawing on dendrometer records, flux-tower data,
-global tree-ring archives, and high-resolution climate datasets.
-
-Across projects, a single question recurs: how does a changing climate reshape
-the long-term trajectory of tree growth, function, and survival? I approach it
-from several directions at once — data-driven, mechanistic, and instrumental —
-because the answer lives at the intersection of all three.
+How does a changing climate alter the way trees grow, function, and survive? I study this question across timescales, from gradual shifts in average conditions to droughts, heat extremes, and their persistent effects. My work combines ecological and climate time-series analysis, statistical and machine-learning models, and dynamical-systems approaches, drawing on dendrometer records, flux-tower data, global tree-ring archives, and high-resolution climate datasets.
 
 ---
 
 ## Disentangling soil and atmospheric drought
 
-Drought is not one thing. Trees experience it both through the soil (falling
-water availability at the roots) and through the atmosphere (rising vapor
-pressure deficit that pulls water from the canopy). These pressures can act on
-their own or overlap, and because they reach the tree through different
-mechanisms, telling their effects apart is not straightforward.
+Drought stress in trees can arise from both declining soil water availability and increasing atmospheric water demand. These two forms of drought act through different pathways but often occur together, making their effects difficult to separate.
 
-In a semi-arid pine forest, I used high-resolution dendrometer measurements
-together with an irrigation experiment — where relieving soil drought isolates
-the effect of atmospheric drought — to separate how each shapes the daily cycles
-of stem growth, contraction, and recovery. A central result: heatwaves
-consistently depress stem expansion, but the consequence depends on soil water.
-Trees with a soil-water buffer keep growing, only at a reduced pace, while trees
-already at the edge stop growing altogether and are driven into contraction —
-losing water and shrinking rather than growing.
+In a semi-arid pine forest, I used high-resolution dendrometer measurements together with an irrigation experiment that relieved soil drought while leaving atmospheric conditions unchanged. This allowed me to separate the effects of atmospheric drought alone from those of combined atmospheric and soil drought on daily stem growth, contraction, and recovery. During periods of high atmospheric water demand, trees with sufficient soil water continued to grow, although at a reduced rate. When high atmospheric demand coincided with soil drought, growth stopped and stems instead contracted.
 
-[Read the manuscript &#8594;](files/Feuer-etal-2025-PCE-tree-growth-drought.pdf)
+[Read the manuscript &#8594;](files/Feuer-etal-2025-PCE-tree-growth-drought.pdf){target="_blank" rel="noopener noreferrer"}
 
 ---
 
 ## Losses outlast gains: a century of tree growth under climate change
 
-Under climate change, will forests grow more or less? The answer differs from
-place to place, which has long obscured the overall direction. To trace it, we
-learned nonlinear climate–growth relationships from 4,110 Northern Hemisphere
-tree-ring chronologies recorded since 1902 — more than 12 million ring-width
-measurements — and projected them through the twenty-first century under CMIP6
-climate scenarios.
+Under climate change, will forests grow more or less? Tree-growth responses vary across regions and climatic conditions, making them difficult to generalize. To trace these responses, we learned nonlinear climate–growth relationships from 4,110 Northern Hemisphere tree-ring chronologies recorded since 1902 — more than 12 million ring-width measurements — and projected them through the twenty-first century under CMIP6 climate scenarios.
 
 Two findings stand out:
 
-- Across the Northern Hemisphere, projected growth declines, driven by warming
-  and rising atmospheric water demand whose negative effect outweighs the gains
-  from changing precipitation.
-- The response is asymmetric in time: once losses emerge they are rarely
-  reversed, whereas gains tend to fade. The pattern holds in every well-sampled
-  region and strengthens under stronger warming, with the sharpest declines in
-  the Mediterranean and western and central Europe.
+- Across the Northern Hemisphere, projected growth declines, driven by warming and rising atmospheric water demand whose negative effect outweighs the gains from changing precipitation.
 
-[Read the manuscript &#8594;](files/Feuer-etal-losses-outlast-gains.pdf)
+- The response is asymmetric in time: once losses emerge they are rarely reversed, whereas gains tend to fade. The pattern holds in every well-sampled region and strengthens under stronger warming. This asymmetry reflects the nonlinear climate–growth response: warming can initially favor growth in colder, low-demand climates, but continued warming and rising atmospheric demand erode those gains.
+
+[Read the manuscript &#8594;](files/Feuer-etal-losses-outlast-gains.pdf){target="_blank" rel="noopener noreferrer"}
+
+---
+
+## Drought history and tree survival under recurrent water stress
+
+I am developing a low-dimensional dynamical model of tree drought recovery, building on carbon–hydraulic frameworks in which drought damage can impair water transport and alter carbon allocation during recovery. Rather than treating drought as a single perturbation followed by fixed recovery conditions, I am interested in how the system evolves under recurrent drought.
+
+In this framework, drought changes the dynamics themselves: its intensity alters the phase space, its duration determines how long the tree evolves under those conditions, and its frequency determines how much recovery occurs before the next event. This makes it possible to ask how drought history shapes survival, and when sequences of individually survivable events can push a tree beyond the threshold for recovery.
 
 ---
 
 ## Where the tree-ring record can speak for a changing climate
 
-The International Tree-Ring Data Bank is the largest archive of tree-ring records
-on Earth, and it underpins much of what we know about how forests respond to
-climate. But it was never designed as a climatic sample: some climates are
-densely represented, others barely at all. This project asks how well the record
-covers the climates trees actually experience, and how that coverage shifts as
-the climate warms.
+The International Tree-Ring Data Bank is the largest archive of tree-ring records on Earth and a major resource for dendroclimatology. But its sites were assembled for many purposes, often to capture strong climate signals rather than to represent the full range of climates occupied by forests. This project quantifies how well the archive samples that multidimensional climate space, where coverage is dense or sparse, and how that coverage changes as the climate warms.
 
-Two ideas sit at its core:
+Three questions sit at its core:
 
-- Space-for-time substitution — the common assumption that spatial climate
-  gradients can stand in for change over time, that a warmer place tells us about
-  a warmer future; I examine how far that holds across the network, where places
-  are interchangeable and where they are not.
-- Novel climates — as warming pushes forests toward conditions with no analog in
-  the existing record, parts of the world move outside the sampled envelope.
-  Mapping where coverage is dense versus sparse shows where the record can support
-  confident inference, and where new sampling would most improve our ability to
-  anticipate how forests respond.
+- Climatic representation: how well does the tree-ring network represent the climates occupied by forests globally? I compare the distribution of tree-ring sites with global forest cover in multidimensional climate space, identifying where that space is well sampled and where important gaps remain.
+
+- Space-for-time substitution: a common assumption in climate-change ecology is that spatial climate gradients can inform responses to change through time. I examine where the existing network provides suitable climatic analogs for this approach, and where that assumption becomes less well supported.
+
+- Novel climates: as climate change shifts forests toward new combinations of conditions, some may move beyond the climate space represented in the existing record. Mapping these emerging gaps shows where inference becomes more uncertain and where additional sampling could be most valuable.
+
 
 ---
 
-## Drought history reshapes tree survival under recurrent water stress
+## Revealing whole-tree dynamics through time-lapse video
 
-I am developing a minimal dynamical model of two coupled quantities that govern
-how a tree endures drought: its accessible carbon reserves and the functional
-capacity of its water-transport system. The two are linked. During drought a tree
-cannot fix carbon while it continues to respire, and its hydraulic system is
-damaged at the same time; restoring that capacity draws further on the same carbon
-reserves. A drought therefore leaves the tree in a different state — lower carbon,
-impaired hydraulics — and the next drought acts on that altered state rather than
-on a healthy one.
+*Exploratory work — preliminary example.*
 
-The model is a deliberate reduction of an established carbon–hydraulic framework,
-kept to the few processes that could let this history matter. Under ordinary
-conditions it has a healthy equilibrium and a threshold — a tipping point, or
-point of no return — that separates states that recover from states whose carbon
-is drawn down without recovering. This threshold is not imposed; it emerges from
-the carbon–hydraulic feedback itself. A drought reshapes the phase space for as
-long as it lasts, driving the tree toward that threshold; when it lifts, the flow
-relaxes to normal, but the tree resumes from wherever it was left.
+Can time-lapse video reveal otherwise invisible dynamics of the **whole tree**?
+Dendrometers are widely used to track stem growth and shrinkage, but each sensor
+measures changes at a single location. I am exploring whether time-lapse video
+and motion amplification can extend these local observations to the whole tree,
+revealing how the stem, branches, and canopy move together. By pairing video with
+dendrometer measurements, I aim to connect these movements to tree water status
+and environmental forcing. The preliminary example below focuses on the stem.
 
-Because a tree meets not a single drought but a regime of them, the question is
-how survival depends on the intensity, frequency, and duration of droughts and the
-timing between them. Events that are each survivable in isolation can carry a tree
-across the point of no return when they fall close together, before hydraulic
-capacity has been rebuilt — so that the sequence, and not the cumulative stress,
-sets the outcome.
+![Original time-lapse on the left; amplified motion on the right, with dendrometer measurements below. Preliminary example from a two-week recording.](archive/images/research/tree-motion.gif){width=320 fig-alt="Side-by-side time-lapse of a tree stem: original video on the left and amplified motion on the right, with a dendrometer diameter trace below." loading="lazy"}
 
 ---
 
 ## Future directions
 
-What ties my work together is a broad concern with how climate change is
-reshaping the fate of trees and forests — their growth, their survival, and where
-they can live — and with what that means for the carbon forests store and release,
-and for the feedbacks between forests and the climate itself.
+Across these projects, my broader goal is to understand how climate alters the trajectories of trees and forests across timescales and spatial scales. I want to extend this work from growth and physiological responses to their consequences for tree survival, forest carbon dynamics, and ultimately forest–climate feedbacks.
 
-I am interested in the full range of pressures a warming world places on trees,
-from drought and heat extremes to fire and biotic agents, and in following them
-across scales — from individual trees measured at high resolution to global
-assessments built on remote sensing and large ecological datasets. I move between
-measurement, theory, and modelling as each question demands.
+An important direction for me is how multiple forms of stress and disturbance, including drought, heat, fire, and biotic agents, interact to shape forest responses to climate change. I want to pursue these questions across scales, from high-resolution measurements of individual trees to landscape and global analyses using remote sensing and large ecological datasets, combining measurement, theory, and modelling as the question demands.
 
-I am seeking postdoc opportunities beginning fall 2027, and I welcome
-conversations about projects and collaborations along these lines.
+I am seeking postdoctoral opportunities beginning fall 2027 to develop this research further.

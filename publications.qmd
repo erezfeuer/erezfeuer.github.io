@@ -6,28 +6,27 @@ title: "Publications"
 
 1. **Erez Feuer**, Stefan Klesse, Guy Amir, Nadav Peleg, Yair Mau  
    Losses Outlast Gains in Northern Hemisphere Tree Growth Under Climate Change  
-   *In submission*, 2025 &nbsp; <a href="files/Feuer-etal-losses-outlast-gains.pdf" class="btn btn-outline-secondary btn-sm" role="button"><i class="fas fa-file-pdf"></i> PDF</a>
+   *In submission*, 2026 &nbsp; <a href="files/Feuer-etal-losses-outlast-gains.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-outline-secondary btn-sm" role="button"><i class="fas fa-file-pdf"></i> PDF</a>
 
 ## Published
 
 1. **Erez Feuer**, Yakir Preisler, Eyal Rotenberg, Dan Yakir, Yair Mau  
    Tree Growth, Contraction and Recovery: Disentangling Soil and Atmospheric Drought Effects  
-   [*Plant, Cell & Environment*](https://doi.org/10.1111/pce.15604), 2025 &nbsp; <a href="files/Feuer-etal-2025-PCE-tree-growth-drought.pdf" class="btn btn-outline-secondary btn-sm" role="button"><i class="fas fa-file-pdf"></i> PDF</a>
+   [*Plant, Cell & Environment*](https://doi.org/10.1111/pce.15604){target="_blank" rel="noopener noreferrer"}, 2025 &nbsp; <a href="files/Feuer-etal-2025-PCE-tree-growth-drought.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-outline-secondary btn-sm" role="button"><i class="fas fa-file-pdf"></i> PDF</a>
 
 1. Gil Zimran, Michal Shpilman, Eve Hobson, Yasuko Kamisugi, Amichai Baichman-Kass, Hong Zhang, Rafa Ruiz-Partida, María R. González-Bermúdez, Matan Azar, **Erez Feuer**, and others  
    Abscisic acid receptors functionally converge across 500 million years of land plant evolution  
-   [*Current Biology*](https://doi.org/10.1016/j.cub.2024.12.043), 2025
+   [*Current Biology*](https://doi.org/10.1016/j.cub.2024.12.043){target="_blank" rel="noopener noreferrer"}, 2025
    
 1. Marylou Mantova, Daniel M. Johnson, Jonathan Antebi, Sara Beery, Meghan Blumstein, Ron Cohen, Felipe Defavari, Xue Feng, **Erez Feuer**, Jess Gersony, William M. Hammond, and others  
    Monitoring Urban Trees Across the World: Report from the Urban Trees Ecophysiology Network (UTEN) Inaugural Workshop  
-   [*New Phytologist*](https://doi.org/10.1111/nph.19621), 2024
+   [*New Phytologist*](https://doi.org/10.1111/nph.19621){target="_blank" rel="noopener noreferrer"}, 2024
 
 1. **Erez Feuer**, Gil Zimran, Michal Shpilman, Assaf Mosquna  
    A Modified Yeast Two-Hybrid Platform Enables Dynamic Control of Expression Intensities to Unmask Properties of Protein-Protein Interactions  
-   [*ACS Synthetic Biology*](https://doi.org/10.1021/acssynbio.2c00192), 2022
+   [*ACS Synthetic Biology*](https://doi.org/10.1021/acssynbio.2c00192){target="_blank" rel="noopener noreferrer"}, 2022
 
 1. Gil Zimran, **Erez Feuer**, Oded Pri-Tal, Michal Shpilman, Assaf Mosquna  
    Directed Evolution of Herbicide Biosensors in a Fluorescence-Activated Cell-Sorting-Compatible Yeast Two-Hybrid Platform  
-   [*ACS Synthetic Biology*](https://doi.org/10.1021/acssynbio.2c00297), 2022
-
+   [*ACS Synthetic Biology*](https://doi.org/10.1021/acssynbio.2c00297){target="_blank" rel="noopener noreferrer"}, 2022
 
