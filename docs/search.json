@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "collaborations.html",
-    "href": "collaborations.html",
-    "title": "Collaborations",
+    "objectID": "music.html",
+    "href": "music.html",
+    "title": "Music",
     "section": "",
-    "text": "My work sits at the intersection of ecology, climate science, data analysis, and environmental sensing.\nI enjoy working with interdisciplinary teams and contributing analytical, modeling, and instrumentation expertise to shared research goals."
+    "text": "I’ve been playing trumpet since I was young, and music has always been a central part of my life. Before shifting toward science, I trained as a professional musician and completed a BFA in Jazz Performance at The New School in New York. I still play regularly, and the mindset of a jazz musician—curiosity, playfulness, and improvisation—continues to guide my work. Keep swinging."
   },
   {
-    "objectID": "collaborations.html#urban-trees-ecophysiology-network-uten",
-    "href": "collaborations.html#urban-trees-ecophysiology-network-uten",
-    "title": "Collaborations",
-    "section": "Urban Trees Ecophysiology Network (UTEN)",
-    "text": "Urban Trees Ecophysiology Network (UTEN)\nThe Urban Trees Ecophysiology Network is a global effort to monitor how trees in cities respond to heatwaves, drought, and atmospheric change.\nThe network brings together researchers across disciplines to deploy sensors, share data, and better understand how trees function in rapidly warming urban environments.\n\nMy role\nI contribute to UTEN by developing custom IoT sensing systems that collect and transmit high-resolution physiological and climatic data from trees around the world.\nThe device I designed — nicknamed the Trumpet — is a low-power, field-ready data-logging and communication system used at multiple UTEN sites.\nIt enables easy integration of dendrometers, microclimate sensors, and environmental probes, and streams data to the cloud for real-time monitoring and analysis.\n👉 Read about the Trumpet device\n👉 Learn more about UTEN"
-  },
-  {
-    "objectID": "collaborations.html#other-research-connections",
-    "href": "collaborations.html#other-research-connections",
-    "title": "Collaborations",
-    "section": "Other Research Connections",
-    "text": "Other Research Connections\nMuch of my work involves shared datasets, instrumentation challenges, and cross-disciplinary questions. I collaborate when projects intersect with my focus on environmental sensing, climate extremes, and ecological time-series analysis, and I’m always open to new partnerships that fit this direction."
+    "objectID": "music.html#selected-recordings",
+    "href": "music.html#selected-recordings",
+    "title": "Music",
+    "section": "Selected recordings",
+    "text": "Selected recordings"
   },
   {
     "objectID": "readme.html",
@@ -26,27 +19,6 @@
     "title": "Erez Feuer",
     "section": "",
     "text": "hello"
-  },
-  {
-    "objectID": "nepenthes.html",
-    "href": "nepenthes.html",
-    "title": "Nepenthes",
-    "section": "",
-    "text": "I grow a collection of Nepenthes (tropical pitcher plants) in a smart, self-built greenhouse.\nBelow are some photos from my Instagram archive. For many more pictures and updates, you can visit my Instagram.\n👉 My Instagram"
-  },
-  {
-    "objectID": "nepenthes.html#media",
-    "href": "nepenthes.html#media",
-    "title": "Nepenthes",
-    "section": "Media",
-    "text": "Media\n\nArticle (in Hebrew) about my Nepenthes collection on\nYnet\nShort video feature (YouTube):"
-  },
-  {
-    "objectID": "nepenthes.html#gallery",
-    "href": "nepenthes.html#gallery",
-    "title": "Nepenthes",
-    "section": "Gallery",
-    "text": "Gallery"
   },
   {
     "objectID": "research.html",
@@ -98,18 +70,53 @@
     "text": "Future directions\nAcross these projects, my broader goal is to understand how climate alters the trajectories of trees and forests across timescales and spatial scales. I want to extend this work from growth and physiological responses to their consequences for tree survival, forest carbon dynamics, and ultimately forest–climate feedbacks.\nAn important direction for me is how multiple forms of stress and disturbance, including drought, heat, fire, and biotic agents, interact to shape forest responses to climate change. I want to pursue these questions across scales, from high-resolution measurements of individual trees to landscape and global analyses using remote sensing and large ecological datasets, combining measurement, theory, and modelling as the question demands.\nI am seeking postdoctoral opportunities beginning fall 2027 to develop this research further."
   },
   {
-    "objectID": "music.html",
-    "href": "music.html",
-    "title": "Music",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "I’ve been playing trumpet since I was young, and music has always been a central part of my life. Before shifting toward science, I trained as a professional musician and completed a BFA in Jazz Performance at The New School in New York. I still play regularly, and the mindset of a jazz musician—curiosity, playfulness, and improvisation—continues to guide my work. Keep swinging."
+    "text": "Erez Feuer, Stefan Klesse, Guy Amir, Nadav Peleg, Yair Mau\nLosses Outlast Gains in Northern Hemisphere Tree Growth Under Climate Change\nIn submission, 2026    PDF"
   },
   {
-    "objectID": "music.html#selected-recordings",
-    "href": "music.html#selected-recordings",
-    "title": "Music",
-    "section": "Selected recordings",
-    "text": "Selected recordings"
+    "objectID": "publications.html#in-submission",
+    "href": "publications.html#in-submission",
+    "title": "Publications",
+    "section": "",
+    "text": "Erez Feuer, Stefan Klesse, Guy Amir, Nadav Peleg, Yair Mau\nLosses Outlast Gains in Northern Hemisphere Tree Growth Under Climate Change\nIn submission, 2026    PDF"
+  },
+  {
+    "objectID": "publications.html#published",
+    "href": "publications.html#published",
+    "title": "Publications",
+    "section": "Published",
+    "text": "Published\n\nErez Feuer, Yakir Preisler, Eyal Rotenberg, Dan Yakir, Yair Mau\nTree Growth, Contraction and Recovery: Disentangling Soil and Atmospheric Drought Effects\nPlant, Cell & Environment, 2025    PDF\nGil Zimran, Michal Shpilman, Eve Hobson, Yasuko Kamisugi, Amichai Baichman-Kass, Hong Zhang, Rafa Ruiz-Partida, María R. González-Bermúdez, Matan Azar, Erez Feuer, and others\nAbscisic acid receptors functionally converge across 500 million years of land plant evolution\nCurrent Biology, 2025\nMarylou Mantova, Daniel M. Johnson, Jonathan Antebi, Sara Beery, Meghan Blumstein, Ron Cohen, Felipe Defavari, Xue Feng, Erez Feuer, Jess Gersony, William M. Hammond, and others\nMonitoring Urban Trees Across the World: Report from the Urban Trees Ecophysiology Network (UTEN) Inaugural Workshop\nNew Phytologist, 2024\nErez Feuer, Gil Zimran, Michal Shpilman, Assaf Mosquna\nA Modified Yeast Two-Hybrid Platform Enables Dynamic Control of Expression Intensities to Unmask Properties of Protein-Protein Interactions\nACS Synthetic Biology, 2022\nGil Zimran, Erez Feuer, Oded Pri-Tal, Michal Shpilman, Assaf Mosquna\nDirected Evolution of Herbicide Biosensors in a Fluorescence-Activated Cell-Sorting-Compatible Yeast Two-Hybrid Platform\nACS Synthetic Biology, 2022"
+  },
+  {
+    "objectID": "nepenthes.html",
+    "href": "nepenthes.html",
+    "title": "Nepenthes",
+    "section": "",
+    "text": "I grow a collection of Nepenthes (tropical pitcher plants) in a smart, self-built greenhouse.\nBelow are some photos from my Instagram archive. For many more pictures and updates, you can visit my Instagram.\n👉 My Instagram"
+  },
+  {
+    "objectID": "nepenthes.html#media",
+    "href": "nepenthes.html#media",
+    "title": "Nepenthes",
+    "section": "Media",
+    "text": "Media\n\nArticle (in Hebrew) about my Nepenthes collection on\nYnet\nShort video feature (YouTube):"
+  },
+  {
+    "objectID": "nepenthes.html#gallery",
+    "href": "nepenthes.html#gallery",
+    "title": "Nepenthes",
+    "section": "Gallery",
+    "text": "Gallery"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Erez Feuer",
+    "section": "",
+    "text": "Erez Feuer\n\n\n Institute of Environmental Science\n   The Hebrew University of Jerusalem\n\n\n\nContact\n   erez.feuer@mail.huji.ac.il\n     Rehovot Campus, Lubell building, office 39. Map here\nAbout\nI am an environmental scientist studying how climate change shapes the growth, function, and survival of trees and forests. I am interested in how gradual changes and extreme events interact, how their effects accumulate over time, and what they mean for the future of forests. My work combines observations across scales with statistical and mechanistic models to understand these responses.\nView CV (PDF)\nShort Bio\n2022–to date: PhD, Institute of Environmental Science, The Hebrew University of Jerusalem\n2022: MSc in Plant Science, The Hebrew University of Jerusalem — summa cum laude\n2020: BSc in Plant Science, The Hebrew University of Jerusalem — summa cum laude\n2017: BFA in Jazz Performance, The New School of Jazz and Contemporary Music, NYC — with honors\n\nOutside of research, I’m a trumpet player and longtime jazz musician. I grow Nepenthes (carnivorous plants) in a smart, self-built greenhouse, and I enjoy building and experimenting with microcontrollers, embedded electronics, and IoT systems.\nSeeking postdoc opportunities beginning fall 2027. I welcome conversations about potential projects and collaborations."
   },
   {
     "objectID": "teaching.html",
@@ -140,31 +147,24 @@
     "text": "Introduction to Data Science (Teaching Assistant)\nAn applied introduction to programming, statistics, and data analysis for scientists.\nThe course introduces essential tools for data-driven research: Python programming, data manipulation, visualization, basic statistical modeling, and reproducible workflows.\nI support students through exercises, coding sessions, and project development, with emphasis on real-world datasets and effective scientific computing.\n👉 Course materials"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Erez Feuer",
+    "objectID": "collaborations.html",
+    "href": "collaborations.html",
+    "title": "Collaborations",
     "section": "",
-    "text": "Erez Feuer\n\n\n Institute of Environmental Science\n   The Hebrew University of Jerusalem\n\n\n\nContact\n   erez.feuer@mail.huji.ac.il\n     Rehovot Campus, Lubell building, office 39. Map here\nAbout\nI am an environmental scientist studying how climate change shapes the growth, function, and survival of trees and forests. I am interested in how gradual changes and extreme events interact, how their effects accumulate over time, and what they mean for the future of forests. My work combines observations across scales with statistical and mechanistic models to understand these responses.\nView CV (PDF)\nShort Bio\n2022–to date: PhD, Institute of Environmental Science, The Hebrew University of Jerusalem\n2022: MSc in Plant Science, The Hebrew University of Jerusalem — summa cum laude\n2020: BSc in Plant Science, The Hebrew University of Jerusalem — summa cum laude\n2017: BFA in Jazz Performance, The New School of Jazz and Contemporary Music, NYC — with honors\n\nOutside of research, I’m a trumpet player and longtime jazz musician. I grow Nepenthes (carnivorous plants) in a smart, self-built greenhouse, and I enjoy building and experimenting with microcontrollers, embedded electronics, and IoT systems.\nSeeking postdoc opportunities beginning fall 2027. I welcome conversations about potential projects and collaborations."
+    "text": "My work sits at the intersection of ecology, climate science, data analysis, and environmental sensing.\nI enjoy working with interdisciplinary teams and contributing analytical, modeling, and instrumentation expertise to shared research goals."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Erez Feuer, Stefan Klesse, Guy Amir, Nadav Peleg, Yair Mau\nLosses Outlast Gains in Northern Hemisphere Tree Growth Under Climate Change\nIn submission, 2026    PDF"
+    "objectID": "collaborations.html#urban-trees-ecophysiology-network-uten",
+    "href": "collaborations.html#urban-trees-ecophysiology-network-uten",
+    "title": "Collaborations",
+    "section": "Urban Trees Ecophysiology Network (UTEN)",
+    "text": "Urban Trees Ecophysiology Network (UTEN)\nThe Urban Trees Ecophysiology Network is a global effort to monitor how trees in cities respond to heatwaves, drought, and atmospheric change.\nThe network brings together researchers across disciplines to deploy sensors, share data, and better understand how trees function in rapidly warming urban environments.\n\nMy role\nI contribute to UTEN by developing custom IoT sensing systems that collect and transmit high-resolution physiological and climatic data from trees around the world.\nThe device I designed — nicknamed the Trumpet — is a low-power, field-ready data-logging and communication system used at multiple UTEN sites.\nIt enables easy integration of dendrometers, microclimate sensors, and environmental probes, and streams data to the cloud for real-time monitoring and analysis.\n👉 Read about the Trumpet device\n👉 Learn more about UTEN"
   },
   {
-    "objectID": "publications.html#in-submission",
-    "href": "publications.html#in-submission",
-    "title": "Publications",
-    "section": "",
-    "text": "Erez Feuer, Stefan Klesse, Guy Amir, Nadav Peleg, Yair Mau\nLosses Outlast Gains in Northern Hemisphere Tree Growth Under Climate Change\nIn submission, 2026    PDF"
-  },
-  {
-    "objectID": "publications.html#published",
-    "href": "publications.html#published",
-    "title": "Publications",
-    "section": "Published",
-    "text": "Published\n\nErez Feuer, Yakir Preisler, Eyal Rotenberg, Dan Yakir, Yair Mau\nTree Growth, Contraction and Recovery: Disentangling Soil and Atmospheric Drought Effects\nPlant, Cell & Environment, 2025    PDF\nGil Zimran, Michal Shpilman, Eve Hobson, Yasuko Kamisugi, Amichai Baichman-Kass, Hong Zhang, Rafa Ruiz-Partida, María R. González-Bermúdez, Matan Azar, Erez Feuer, and others\nAbscisic acid receptors functionally converge across 500 million years of land plant evolution\nCurrent Biology, 2025\nMarylou Mantova, Daniel M. Johnson, Jonathan Antebi, Sara Beery, Meghan Blumstein, Ron Cohen, Felipe Defavari, Xue Feng, Erez Feuer, Jess Gersony, William M. Hammond, and others\nMonitoring Urban Trees Across the World: Report from the Urban Trees Ecophysiology Network (UTEN) Inaugural Workshop\nNew Phytologist, 2024\nErez Feuer, Gil Zimran, Michal Shpilman, Assaf Mosquna\nA Modified Yeast Two-Hybrid Platform Enables Dynamic Control of Expression Intensities to Unmask Properties of Protein-Protein Interactions\nACS Synthetic Biology, 2022\nGil Zimran, Erez Feuer, Oded Pri-Tal, Michal Shpilman, Assaf Mosquna\nDirected Evolution of Herbicide Biosensors in a Fluorescence-Activated Cell-Sorting-Compatible Yeast Two-Hybrid Platform\nACS Synthetic Biology, 2022"
+    "objectID": "collaborations.html#other-research-connections",
+    "href": "collaborations.html#other-research-connections",
+    "title": "Collaborations",
+    "section": "Other Research Connections",
+    "text": "Other Research Connections\nMuch of my work involves shared datasets, instrumentation challenges, and cross-disciplinary questions. I collaborate when projects intersect with my focus on environmental sensing, climate extremes, and ecological time-series analysis, and I’m always open to new partnerships that fit this direction."
   }
 ]
