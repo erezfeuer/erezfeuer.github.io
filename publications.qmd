@@ -2,11 +2,11 @@
 title: "Publications"
 ---
 
-## In submission
+## Submitted
 
 1. **Erez Feuer**, Stefan Klesse, Guy Amir, Nadav Peleg, Yair Mau  
    Losses Outlast Gains in Northern Hemisphere Tree Growth Under Climate Change  
-   *In submission*, 2026 · [bioRxiv preprint](https://doi.org/10.64898/2026.09.06.749676){target="_blank" rel="noopener noreferrer"} &nbsp; <a href="files/Feuer-etal-losses-outlast-gains.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-outline-secondary btn-sm" role="button"><i class="fas fa-file-pdf"></i> PDF</a>
+   *Submitted*, 2026 · [bioRxiv preprint](https://doi.org/10.64898/2026.09.06.749676){target="_blank" rel="noopener noreferrer"} &nbsp; <a href="files/Feuer-etal-losses-outlast-gains.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-outline-secondary btn-sm" role="button"><i class="fas fa-file-pdf"></i> PDF</a>
 
 ## Published
 
