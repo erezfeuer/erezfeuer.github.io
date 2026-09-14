@@ -6,7 +6,7 @@ title: "Publications"
 
 1. **Erez Feuer**, Stefan Klesse, Guy Amir, Nadav Peleg, Yair Mau  
    Losses Outlast Gains in Northern Hemisphere Tree Growth Under Climate Change  
-   *In submission*, 2026 &nbsp; <a href="files/Feuer-etal-losses-outlast-gains.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-outline-secondary btn-sm" role="button"><i class="fas fa-file-pdf"></i> PDF</a>
+   *In submission*, 2026 · [bioRxiv preprint](https://doi.org/10.64898/2026.09.06.749676){target="_blank" rel="noopener noreferrer"} &nbsp; <a href="files/Feuer-etal-losses-outlast-gains.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-outline-secondary btn-sm" role="button"><i class="fas fa-file-pdf"></i> PDF</a>
 
 ## Published
 
@@ -29,4 +29,3 @@ title: "Publications"
 1. Gil Zimran, **Erez Feuer**, Oded Pri-Tal, Michal Shpilman, Assaf Mosquna  
    Directed Evolution of Herbicide Biosensors in a Fluorescence-Activated Cell-Sorting-Compatible Yeast Two-Hybrid Platform  
    [*ACS Synthetic Biology*](https://doi.org/10.1021/acssynbio.2c00297){target="_blank" rel="noopener noreferrer"}, 2022
-
