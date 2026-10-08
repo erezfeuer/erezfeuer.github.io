@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "music.html",
-    "href": "music.html",
-    "title": "Music",
+    "objectID": "nepenthes.html",
+    "href": "nepenthes.html",
+    "title": "Nepenthes",
     "section": "",
-    "text": "I’ve been playing trumpet since I was young, and music has always been a central part of my life. Before shifting toward science, I trained as a professional musician and completed a BFA in Jazz Performance at The New School in New York. I still play regularly, and the mindset of a jazz musician—curiosity, playfulness, and improvisation—continues to guide my work. Keep swinging."
+    "text": "I grow a collection of Nepenthes (tropical pitcher plants) in a smart, self-built greenhouse.\nBelow are some photos from my Instagram archive. For many more pictures and updates, you can visit my Instagram.\n👉 My Instagram"
   },
   {
-    "objectID": "music.html#selected-recordings",
-    "href": "music.html#selected-recordings",
-    "title": "Music",
-    "section": "Selected recordings",
-    "text": "Selected recordings"
+    "objectID": "nepenthes.html#media",
+    "href": "nepenthes.html#media",
+    "title": "Nepenthes",
+    "section": "Media",
+    "text": "Media\n\nArticle (in Hebrew) about my Nepenthes collection on\nYnet\nShort video feature (YouTube):"
   },
   {
-    "objectID": "readme.html",
-    "href": "readme.html",
-    "title": "Erez Feuer",
-    "section": "",
-    "text": "hello"
+    "objectID": "nepenthes.html#gallery",
+    "href": "nepenthes.html#gallery",
+    "title": "Nepenthes",
+    "section": "Gallery",
+    "text": "Gallery"
   },
   {
     "objectID": "research.html",
@@ -42,11 +42,11 @@
     "text": "Losses outlast gains: a century of tree growth under climate change\nUnder climate change, will forests grow more or less? Tree-growth responses vary across regions and climatic conditions, making them difficult to generalize. To trace these responses, we learned nonlinear climate–growth relationships from 4,110 Northern Hemisphere tree-ring chronologies recorded since 1902 — more than 12 million ring-width measurements — and projected them through the twenty-first century under CMIP6 climate scenarios.\nTwo findings stand out:\n\nAcross the Northern Hemisphere, projected growth declines, driven by warming and rising atmospheric water demand whose negative effect outweighs the gains from changing precipitation.\nThe response is asymmetric in time: once losses emerge they are rarely reversed, whereas gains tend to fade. The pattern holds in every well-sampled region and strengthens under stronger warming. This asymmetry reflects the nonlinear climate–growth response: warming can initially favor growth in colder, low-demand climates, but continued warming and rising atmospheric demand erode those gains.\n\nRead the preprint on bioRxiv → · PDF"
   },
   {
-    "objectID": "research.html#drought-history-and-tree-survival-under-recurrent-water-stress",
-    "href": "research.html#drought-history-and-tree-survival-under-recurrent-water-stress",
+    "objectID": "research.html#drought-history-and-tree-survival",
+    "href": "research.html#drought-history-and-tree-survival",
     "title": "Research",
-    "section": "Drought history and tree survival under recurrent water stress",
-    "text": "Drought history and tree survival under recurrent water stress\nI am using dynamical systems to develop a low-dimensional model of tree drought recovery, building on carbon–hydraulic frameworks in which drought damage can impair water transport and alter carbon allocation during recovery. Rather than treating drought as a single perturbation followed by fixed recovery conditions, I am interested in how the system evolves under recurrent drought.\nIn this framework, drought changes the dynamics themselves: its intensity alters the phase space, its duration determines how long the tree evolves under those conditions, and its frequency determines how much recovery occurs before the next event. This makes it possible to ask how drought history shapes survival, and when sequences of individually survivable events can push a tree beyond the threshold for recovery."
+    "section": "Drought history and tree survival",
+    "text": "Drought history and tree survival\nDrought can damage a tree’s water-transport system and deplete the carbon available for maintenance and rebuilding, potentially leaving it more vulnerable to the next drought. But drought can also reduce its canopy, lowering water demand and potentially making it more tolerant of a subsequent drought—even compared with an otherwise identical tree that had not experienced the first event. Whether the legacy is harmful or protective depends on how these effects interact and change over time.\nI am using dynamical systems to study this balance in a minimal model linking carbon availability, hydraulic function, and canopy. These components respond and recover at different rates, so the interval between droughts changes the physiological state on which the next event acts. The project asks when a previous drought leaves a tree more vulnerable, when it creates a protective advantage, and how that advantage can emerge or disappear between events."
   },
   {
     "objectID": "research.html#where-the-tree-ring-record-can-speak-for-a-changing-climate",
@@ -89,27 +89,6 @@
     "title": "Publications",
     "section": "Published",
     "text": "Published\n\nErez Feuer, Yakir Preisler, Eyal Rotenberg, Dan Yakir, Yair Mau\nTree Growth, Contraction and Recovery: Disentangling Soil and Atmospheric Drought Effects\nPlant, Cell & Environment, 2025    PDF\nGil Zimran, Michal Shpilman, Eve Hobson, Yasuko Kamisugi, Amichai Baichman-Kass, Hong Zhang, Rafa Ruiz-Partida, María R. González-Bermúdez, Matan Azar, Erez Feuer, and others\nAbscisic acid receptors functionally converge across 500 million years of land plant evolution\nCurrent Biology, 2025\nMarylou Mantova, Daniel M. Johnson, Jonathan Antebi, Sara Beery, Meghan Blumstein, Ron Cohen, Felipe Defavari, Xue Feng, Erez Feuer, Jess Gersony, William M. Hammond, and others\nMonitoring Urban Trees Across the World: Report from the Urban Trees Ecophysiology Network (UTEN) Inaugural Workshop\nNew Phytologist, 2024\nErez Feuer, Gil Zimran, Michal Shpilman, Assaf Mosquna\nA Modified Yeast Two-Hybrid Platform Enables Dynamic Control of Expression Intensities to Unmask Properties of Protein-Protein Interactions\nACS Synthetic Biology, 2022\nGil Zimran, Erez Feuer, Oded Pri-Tal, Michal Shpilman, Assaf Mosquna\nDirected Evolution of Herbicide Biosensors in a Fluorescence-Activated Cell-Sorting-Compatible Yeast Two-Hybrid Platform\nACS Synthetic Biology, 2022"
-  },
-  {
-    "objectID": "nepenthes.html",
-    "href": "nepenthes.html",
-    "title": "Nepenthes",
-    "section": "",
-    "text": "I grow a collection of Nepenthes (tropical pitcher plants) in a smart, self-built greenhouse.\nBelow are some photos from my Instagram archive. For many more pictures and updates, you can visit my Instagram.\n👉 My Instagram"
-  },
-  {
-    "objectID": "nepenthes.html#media",
-    "href": "nepenthes.html#media",
-    "title": "Nepenthes",
-    "section": "Media",
-    "text": "Media\n\nArticle (in Hebrew) about my Nepenthes collection on\nYnet\nShort video feature (YouTube):"
-  },
-  {
-    "objectID": "nepenthes.html#gallery",
-    "href": "nepenthes.html#gallery",
-    "title": "Nepenthes",
-    "section": "Gallery",
-    "text": "Gallery"
   },
   {
     "objectID": "index.html",
@@ -166,5 +145,26 @@
     "title": "Collaborations",
     "section": "Other Research Connections",
     "text": "Other Research Connections\nMuch of my work involves shared datasets, instrumentation challenges, and cross-disciplinary questions. I collaborate when projects intersect with my focus on environmental sensing, climate extremes, and ecological time-series analysis, and I’m always open to new partnerships that fit this direction."
+  },
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Erez Feuer",
+    "section": "",
+    "text": "hello"
+  },
+  {
+    "objectID": "music.html",
+    "href": "music.html",
+    "title": "Music",
+    "section": "",
+    "text": "I’ve been playing trumpet since I was young, and music has always been a central part of my life. Before shifting toward science, I trained as a professional musician and completed a BFA in Jazz Performance at The New School in New York. I still play regularly, and the mindset of a jazz musician—curiosity, playfulness, and improvisation—continues to guide my work. Keep swinging."
+  },
+  {
+    "objectID": "music.html#selected-recordings",
+    "href": "music.html#selected-recordings",
+    "title": "Music",
+    "section": "Selected recordings",
+    "text": "Selected recordings"
   }
 ]
