@@ -14,6 +14,8 @@ project:
 #       - publications.qmd
 website:
   title: "Erez Feuer"
+  site-url: "https://erezfeuer.github.io/"
+  description: "Erez Feuer is an environmental scientist studying how climate change shapes tree growth, drought responses, and vegetation dynamics."
   navbar:
     logo: archive/images/trumpet.png
     right:
@@ -30,6 +32,7 @@ website:
 
 format:
   html:
+    canonical-url: true
     theme: [flatly, custom.scss]
     css: styles.css
     toc: true
