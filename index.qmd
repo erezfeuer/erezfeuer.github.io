@@ -3,9 +3,6 @@ title: ""
 description: "Erez Feuer is an environmental scientist studying how climate change shapes tree growth, drought responses, and vegetation dynamics."
 page-layout: article
 section-divs: false
-jupyter: python3
-execute:
-  freeze: auto  # re-render only when source changes
 ---
 
 <!-- {{< fa thumbs-up >}}  -->
